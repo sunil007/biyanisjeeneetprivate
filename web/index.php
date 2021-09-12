@@ -2,53 +2,7 @@
 <html lang="en">
 <?php include 'include/head.php'; ?>
 <body>
-<!-- header -->
-<header class="w3l-header">
-	<div class="hero-header-11">
-		<div class="hero-header-11-content">
-			<div class="container">
-				<nav class="navbar navbar-expand-lg navbar-light py-0 px-0">
-					<a class="navbar-brand" href="index.html"><img src="assets/images/logo-icon.png" alt="" />ash<span class="logo-view">ing</span></a>
-					<!-- if logo is image enable this   
-				<a class="navbar-brand" href="#index.html">
-						<img src="image-path" alt="Your logo" title="Your logo" style="height:35px;" />
-				</a> -->
-					<button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
-						aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-						<span class="navbar-toggler-icon fa icon-expand fa-bars"></span>
-						<span class="navbar-toggler-icon fa icon-close fa-times"></span>
-					</button>
-
-					<div class="collapse navbar-collapse" id="navbarSupportedContent">
-						<ul class="navbar-nav ml-auto">
-							<li class="nav-item active">
-								<a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
-							</li>
-							<li class="nav-item @@about-active">
-								<a class="nav-link" href="about.html">About</a>
-							</li>
-							<li class="nav-item @@services-active">
-								<a class="nav-link" href="services.html">Services</a>
-							</li>
-							<li class="nav-item @@contact-active">
-								<a class="nav-link" href="contact.html">Contact</a>
-							</li>
-						</ul>
-						<ul class="social-icons">
-							<li><a href="#url"><span class="fa fa-facebook" aria-hidden="true"></span></a></li>
-							<li><a href="#url"><span class="fa fa-twitter" aria-hidden="true"></span></a></li>
-							<li><a href="#url"><span class="fa fa-instagram" aria-hidden="true"></span></a></li>
-						</ul>
-            <div class="phone">
-              <a href="tel:+44-123-456-78"><span class="fa fa-headphones" aria-hidden="true"></span> +44-123-456-78</a>
-            </div>
-					</div>
-				</nav>
-			</div>
-		</div>
-	</div>
-</header>
-<!-- //header -->
+<?php include 'include/nav.php'; ?>
 <section class="w3l-banner-slider">
   <div id="carouselExampleCaptions" class="carousel slide carousel-fade" data-ride="carousel">
     <ol class="carousel-indicators">
@@ -61,45 +15,45 @@
       <div class="carousel-item active" style="background-image: url('assets/images/banner1.jpg')">
         <!-- <img src="assets/images/banner.jpg" class="d-block w-100" alt="..."> -->
         <div class="carousel-caption container">
-          <h6 class="tag-cover-9"> Washing</h6>
+          <!--h6 class="tag-cover-9"> Washing</h6>
           <h3 class="title-cover-9">We are the Best laundry services</h3>
           <p class="para-cover-9">Once aute irure dolor in reprehenderit in voluptate velit
             esse cillum dolore eu fugiat nulla pariatur consectetur adipiscing elit eu fugiat nulla laudantium sunt in
             culpa qui.</p>
-          <a href="about.html" class="btn btn-primary theme-button mt-5">Read More</a>
+          <a href="about.html" class="btn btn-primary theme-button mt-5">Read More</a-->
         </div>
       </div>
       <div class="carousel-item" style="background-image: url('assets/images/banner3.jpg')">
         <!-- <img src="assets/images/banner-3.jpg" class="d-block w-100" alt="..."> -->
         <div class="carousel-caption container">
-          <h6 class="tag-cover-9"> Washing</h6>
+          <!--h6 class="tag-cover-9"> Washing</h6>
           <h3 class="title-cover-9">Dry Cleaning Service</h3>
           <p class="para-cover-9">Excepteur sint occaecat cupidatat non proident, sunt in
             culpa qui officia sed deserunt mollit anim id est laborum mollit anim id est nulla laudantium sunt in culpa
             qui.</p>
-          <a href="about.html" class="btn btn-primary theme-button mt-5">Read More</a>
+          <a href="about.html" class="btn btn-primary theme-button mt-5">Read More</a-->
         </div>
       </div>
       <div class="carousel-item" style="background-image: url('assets/images/banner2.jpg')">
         <!-- <img src="assets/images/banner-2.jpg" class="d-block w-100" alt="..."> -->
         <div class="carousel-caption container">
-          <h6 class="tag-cover-9"> Washing</h6>
+          <!--h6 class="tag-cover-9"> Washing</h6>
           <h3 class="title-cover-9">We Care the Cloths you Wear</h3>
           <p class="para-cover-9">Sed ut perspiciatis unde omnis iste natus error sit
             voluptatem accus antium dolor emque laudantium sunt in culpa qui laborum eu fugiat nulla laudantium sunt in
             culpa qui.</p>
-          <a href="about.html" class="btn btn-primary theme-button mt-5">Read More</a>
+          <a href="about.html" class="btn btn-primary theme-button mt-5">Read More</a-->
         </div>
       </div>
       <div class="carousel-item" style="background-image: url('assets/images/banner.jpg'); background-position: top;">
         <!-- <img src="assets/images/banner-1.jpg" class="d-block w-100" alt="..."> -->
         <div class="carousel-caption container">
-          <h6 class="tag-cover-9"> Washing</h6>
+          <!--h6 class="tag-cover-9"> Washing</h6>
           <h3 class="title-cover-9">Cleaning Excellence Guaranteed!</h3>
           <p class="para-cover-9">Once aute irure dolor in reprehenderit in voluptate velit
             esse cillum dolore eu fugiat nulla pariatur consectetur adipiscing elit eu fugiat nulla laudantium sunt in
             culpa qui.</p>
-          <a href="about.html" class="btn btn-primary theme-button mt-5">Read More</a>
+          <a href="about.html" class="btn btn-primary theme-button mt-5">Read More</a-->
         </div>
       </div>
     </div>
@@ -118,11 +72,11 @@
   <div class="content-main pt-lg-5 pt-md-3 pb-0">
     <div class="container">
       <div class="row">
-        <div class="col-lg-4 content-photo">
+        <div class="offset-lg-0 col-lg-4 offset-md-3 col-md-6 offset-sm-2 col-sm-8  content-photo">
           <a href="#"><img src="assets/images/about.jpg" class="img-fluid" alt="content-photo"></a>
         </div>
         <div class="col-lg-8 content-left mt-lg-0 mt-5 pl-lg-5">
-          <h3>We are Passionate about Laundry</h3>
+          <h3>About Us</h3>
           <p class="mb-0">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Amet non porro laboriosam rerum fugiat quod ullam earum
             dignissimos corporis, nemo provident nostrum, nihil culpa. Et corrupti sit hic amet, animi unde cumque consequuntur omnis ad nihil optio
             id eum qui, impedit deleniti? Veniam eum aspernatur incidunt? Doloremque, cum? Repellendus consectetur, cupiditate tenetur provident
@@ -130,7 +84,7 @@
             dolorum architecto? Doloribus fuga voluptate voluptatem corporis rem! Culpa nam et accusamus beatae!</p>
           <p>Donec consequat sapien ut leo cursus rhoncus. Nullam dui mi, vulputate ac metus at, semper varius orci. Nulla accumsan ac elit in congue. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Id provident dolore aut delectus repellat cupiditate!
           </p>
-          <a href="about.html" class="theme-button btn-outline-primary btn mt-lg-5 mt-4">About Us</a>
+          <div data-toggle="modal" data-target="#enquireModal" class="theme-button btn-outline-primary btn mt-lg-5 mt-4">Enquire Now</div>
         </div>
       </div>
     </div>
@@ -148,8 +102,8 @@
                 <span class="fa fa-shirtsinbulk" aria-hidden="true"></span>
               </div>
               <div class="feature-info mt-4">
-                <h3 class="feature-titel mb-3">Wash & Fold Laundry Service</h3>
-                <p class="feature-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis nam, minima iste molestiae.
+                <h3 class="feature-titel mb-3">Experiance Teachers</h3>
+                <p class="feature-text">Highly qualified and expert teaching staff. Specialized faculty for each subject focussing on defined syllabus as well as the practical implication of the subject.
                 </p>
               </div>
             </div>
@@ -162,8 +116,8 @@
                 <span class="fa fa fa-envira" aria-hidden="true"></span>
               </div>
               <div class="feature-info mt-4">
-                <h3 class="feature-titel mb-3">Commercial Laundry Service</h3>
-                <p class="feature-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis nam, minima iste molestiae.
+                <h3 class="feature-titel mb-3">Printed Notes</h3>
+                <p class="feature-text">Printed Material for each chapter will be available as per the scheduled plan. Printed past paper will also be available along with the solution.
                 </p>
 
               </div>
@@ -177,8 +131,8 @@
                 <span class="fa fa-codepen" aria-hidden="true"></span>
               </div>
               <div class="feature-info mt-4">
-                <h3 class="feature-titel mb-3">Eco-Friendly Dry Cleaning</h3>
-                <p class="feature-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis nam, minima iste molestiae.
+                <h3 class="feature-titel mb-3">Weekly Test Series</h3>
+                <p class="feature-text">Weekly test series for the syllabus covered in the scheduled week. Consolidated results will be mailed to the parents at the registered residence address.
                 </p>
                 <div class="hover">
                 </div>
@@ -193,8 +147,8 @@
                 <span class="fa fa-modx" aria-hidden="true"></span>
               </div>
               <div class="feature-info mt-4">
-                <h3 class="feature-titel mb-3">Self Service and Laundromat</h3>
-                <p class="feature-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis nam, minima iste molestiae.
+                <h3 class="feature-titel mb-3">Exceptionally well results</h3>
+                <p class="feature-text">Excellent performance till date.
                 </p>
               </div>
             </div>
@@ -758,7 +712,7 @@
 
 <!-- Bootstrap JS -->
 <script src="assets/js/bootstrap.min.js"></script>
-
+<?php include 'include/enquireModal.php'; ?>
 </body>
 
 </html>
