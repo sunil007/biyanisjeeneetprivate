@@ -12,8 +12,8 @@
       <li data-target="#carouselExampleCaptions" data-slide-to="3"></li>
     </ol>
     <div class="carousel-inner">
-      <div class="carousel-item active" style="background-image: url('assets/images/banner1.jpg')">
-        <!-- <img src="assets/images/banner.jpg" class="d-block w-100" alt="..."> -->
+      <div class="carousel-item active" style="background-image: url('assets/images/banner1.jpg?1')">
+        <!-- <img src="assets/images/banner.jpg?1" class="d-block w-100" alt="..."> -->
         <div class="carousel-caption container">
           <!--h6 class="tag-cover-9"> Washing</h6>
           <h3 class="title-cover-9">We are the Best laundry services</h3>
@@ -23,8 +23,8 @@
           <a href="about.html" class="btn btn-primary theme-button mt-5">Read More</a-->
         </div>
       </div>
-      <div class="carousel-item" style="background-image: url('assets/images/banner3.jpg')">
-        <!-- <img src="assets/images/banner-3.jpg" class="d-block w-100" alt="..."> -->
+      <div class="carousel-item" style="background-image: url('assets/images/banner3.jpg?1')">
+        <!-- <img src="assets/images/banner-3.jpg?1" class="d-block w-100" alt="..."> -->
         <div class="carousel-caption container">
           <!--h6 class="tag-cover-9"> Washing</h6>
           <h3 class="title-cover-9">Dry Cleaning Service</h3>
@@ -34,8 +34,8 @@
           <a href="about.html" class="btn btn-primary theme-button mt-5">Read More</a-->
         </div>
       </div>
-      <div class="carousel-item" style="background-image: url('assets/images/banner2.jpg')">
-        <!-- <img src="assets/images/banner-2.jpg" class="d-block w-100" alt="..."> -->
+      <div class="carousel-item" style="background-image: url('assets/images/banner2.jpg?1')">
+        <!-- <img src="assets/images/banner-2.jpg?1" class="d-block w-100" alt="..."> -->
         <div class="carousel-caption container">
           <!--h6 class="tag-cover-9"> Washing</h6>
           <h3 class="title-cover-9">We Care the Cloths you Wear</h3>
@@ -45,8 +45,8 @@
           <a href="about.html" class="btn btn-primary theme-button mt-5">Read More</a-->
         </div>
       </div>
-      <div class="carousel-item" style="background-image: url('assets/images/banner.jpg'); background-position: top;">
-        <!-- <img src="assets/images/banner-1.jpg" class="d-block w-100" alt="..."> -->
+      <div class="carousel-item" style="background-image: url('assets/images/banner.jpg?1'); background-position: top;">
+        <!-- <img src="assets/images/banner-1.jpg?1" class="d-block w-100" alt="..."> -->
         <div class="carousel-caption container">
           <!--h6 class="tag-cover-9"> Washing</h6>
           <h3 class="title-cover-9">Cleaning Excellence Guaranteed!</h3>
