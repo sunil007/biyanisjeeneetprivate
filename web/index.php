@@ -72,67 +72,69 @@
   <div class="content-main pt-lg-5 pt-md-3 pb-0">
     <div class="container">
       <div class="row">
-        <div class="offset-lg-0 col-lg-4 offset-md-3 col-md-6 offset-sm-2 col-sm-8  content-photo">
-          <a href="#"><img src="assets/images/about.jpg" class="img-fluid" alt="content-photo"></a>
-        </div>
-        <div class="col-lg-8 content-left mt-lg-0 mt-5 pl-lg-5">
+        <!--div class="offset-lg-0 col-lg-4 offset-md-3 col-md-6 offset-sm-2 col-sm-8  content-photo">
+          <a href="#"><img src="assets/images/biyanis_symbol_lg.png" class="img-fluid" alt="content-photo" style='background: none;'></a>
+        </div-->
+        <div class="col-lg-12 content-left mt-lg-0 mt-5 pl-lg-5">
           <h3>About Us</h3>
-          <p class="mb-0">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Amet non porro laboriosam rerum fugiat quod ullam earum
-            dignissimos corporis, nemo provident nostrum, nihil culpa. Et corrupti sit hic amet, animi unde cumque consequuntur omnis ad nihil optio
-            id eum qui, impedit deleniti? Veniam eum aspernatur incidunt? Doloremque, cum? Repellendus consectetur, cupiditate tenetur provident
-            neque, quas, totam eveniet nisi eius veritatis ea maiores ducimus a reprehenderit minima magnam dicta! Aliquam libero voluptatum facilis
-            dolorum architecto? Doloribus fuga voluptate voluptatem corporis rem! Culpa nam et accusamus beatae!</p>
-          <p>Donec consequat sapien ut leo cursus rhoncus. Nullam dui mi, vulputate ac metus at, semper varius orci. Nulla accumsan ac elit in congue. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Id provident dolore aut delectus repellat cupiditate!
-          </p>
-          <div data-toggle="modal" data-target="#enquireModal" class="theme-button btn-outline-primary btn mt-lg-5 mt-4">Enquire Now</div>
+          <p class="mb-0 big1Text">Being educators from the last 8 years and mentoring young, promising minds during their school journey, we have seen talents being misguided. We've seen budding engineers, doctors, scientists, CAs, pilots, professors, artists landing no where.</p>
+          <p class="mb-0 big1Text">So after 6 years of building a foundation of trust, a culture of academics, an era of doubt-solving and concept-driven studies...<br><b><i>Here we are with the well-known faculties of Mumbai and the age-old teaching traditions of Kota.</i></b></p>
+		  <p class='big1Text'>Our ultimate aim is to approach education in the way it is meant to be. We want to make sure quality education is available to all and keep the students at the centre of all academics related to them.</p>		  
         </div>
+		<div class="col-lg-12 content-left mt-lg-0 mt-5 pl-lg-5">
+			<p class='big1Text'>Established in 2014, Biyani's Super 30 has not only produced the best results in town for consecutive years but it has also developed a strong academic culture that keeps challenging the students to rise to new intellectual levels. It is our teaching faculties, strong management and unique relationship with students that has led us to this venture of guiding even more students in their academic journeys.</p>
+			<p class='big1Text'><b>Biyani's JEE & NEET Private has been conceptualised with the same care, principles and work ethics that Biyani's Super 30 is known for.</b></p>
+			<div class='text-center'>
+				<div data-toggle="modal" data-target="#enquireModal" class="theme-button btn-outline-primary btn mt-lg-5 mt-4">Enquire Now</div>
+			</div>
+		</div>
       </div>
     </div>
   </div>
 </div>
 <!-- //index1 -->
-<section class="w3l-index2">
+<!--section class="w3l-index2">
   <div class="features-main pb-5 pt-0">
     <div class="container pb-lg-3">
       <div class="row features">
-        <div class="col-lg-3 col-sm-6 feature-grid">
+		<div class="col-lg-3 col-sm-6 feature-grid">
           <a href="#url">
             <div class="feature-body">
               <div class="feature-img">
-                <span class="fa fa-shirtsinbulk" aria-hidden="true"></span>
+                <span class="fa fa-trophy" aria-hidden="true"></span>
               </div>
               <div class="feature-info mt-4">
-                <h3 class="feature-titel mb-3">Experiance Teachers</h3>
-                <p class="feature-text">Highly qualified and expert teaching staff. Specialized faculty for each subject focussing on defined syllabus as well as the practical implication of the subject.
+                <h3 class="feature-titel mb-3">Speed of Mumbai & Tradition of Kota</h3>
+                <p class="feature-text">Well-Known faculties of Mumbai and the age-old teaching traditions of Kota.
                 </p>
               </div>
             </div>
           </a>
         </div>
+        <div class="col-lg-3 col-sm-6 feature-grid">
+          <a href="#url">
+            <div class="feature-body">
+              <div class="feature-img">
+                <span class="fa fa-user" aria-hidden="true"></span>
+              </div>
+              <div class="feature-info mt-4">
+                <h3 class="feature-titel mb-3">All Time Available Core Faculties</h3>
+                <p class="feature-text">Highly qualified and expert teaching staff. specialized for each subject.
+                </p>
+              </div>
+            </div>
+          </a>
+        </div>
+        
         <div class="col-lg-3 col-sm-6 feature-grid">
           <a href="#url">
             <div class="feature-body active">
               <div class="feature-img">
-                <span class="fa fa fa-envira" aria-hidden="true"></span>
+                <span class="fa fa-group" aria-hidden="true"></span>
               </div>
               <div class="feature-info mt-4">
-                <h3 class="feature-titel mb-3">Printed Notes</h3>
-                <p class="feature-text">Printed Material for each chapter will be available as per the scheduled plan. Printed past paper will also be available along with the solution.
-                </p>
-
-              </div>
-            </div>
-          </a>
-        </div>
-        <div class="col-lg-3 col-sm-6 feature-grid">
-          <a href="#url">
-            <div class="feature-body">
-              <div class="feature-img">
-                <span class="fa fa-codepen" aria-hidden="true"></span>
-              </div>
-              <div class="feature-info mt-4">
-                <h3 class="feature-titel mb-3">Weekly Test Series</h3>
-                <p class="feature-text">Weekly test series for the syllabus covered in the scheduled week. Consolidated results will be mailed to the parents at the registered residence address.
+                <h3 class="feature-titel mb-3">Experienced Directors</h3>
+                <p class="feature-text">TBD TBD TBD TBD TBD TBD TBD TBD TBD TBD TBD TBD TBD TBD TBD TBD TBD TBD 
                 </p>
                 <div class="hover">
                 </div>
@@ -144,11 +146,11 @@
           <a href="#url">
             <div class="feature-body">
               <div class="feature-img">
-                <span class="fa fa-modx" aria-hidden="true"></span>
+                <span class="fa fa-line-chart" aria-hidden="true"></span>
               </div>
               <div class="feature-info mt-4">
-                <h3 class="feature-titel mb-3">Exceptionally well results</h3>
-                <p class="feature-text">Excellent performance till date.
+                <h3 class="feature-titel mb-3">Trust of 800+ Students</h3>
+                <p class="feature-text">TBD TBD TBD TBD TBD TBD TBD TBD TBD TBD TBD TBD TBD TBD TBD TBD TBD TBD
                 </p>
               </div>
             </div>
@@ -157,294 +159,86 @@
       </div>
     </div>
   </div>
+</section-->
+
+<section class="w3l-index2">
+  <div class="features-main pb-5 pt-0">
+    <div class="container pb-lg-3">
+      <div class="row features">
+		<div class="col-lg-12 offset-sm-0 col-sm-12 feature-grid">
+			<iframe width="100%" height="400px;"
+				src="https://www.youtube.com/embed/iQUdbNq6HXY?autoplay=0&mute=1&playlist=iQUdbNq6HXY&loop=1" allowfullscreen>
+			</iframe>
+		</div>
+	  </div>
+	</div>
+  </div>
 </section>
-<section class="w3l-index3" id="process">
+
+<div class="w3l-services3">
+  <section id="grids5-block" class="">
+    <div class="container py-lg-3">
+      <div class="header-section mb-5 text-center">
+        <h3>Our Directors</h3>
+      </div>
+      <div class="row">
+        <div class="col-md-4 col-sm-6 mt-0 grids5-info">
+          <a href="#url"><img src="https://via.placeholder.com/640x600" class="img-fluid img-curve" alt=""></a>
+          <h5>Prof. Rakesh Shah</h5>
+          <h4><a class='noMargin' href="#">Professor of Advanced Physics </a></h4>
+          <p class='noMargin'>B.E, MU</p>
+        </div>
+        <div class="col-md-4 col-sm-6 mt-sm-0 mt-5 grids5-info">
+          <a href="#url"><img src="https://via.placeholder.com/640x600" class="img-fluid img-curve" alt=""></a>
+          <h5>Prof. Yash  Biyani</h5>
+          <h4><a class='noMargin' href="#url">Professor of Advanced Chemistry</a></h4>
+          <p class='noMargin'>B.Tech, RGIPT | IITK</p>
+        </div>
+        <div class="col-md-4 col-sm-6 mt-md-0 mt-5 grids5-info">
+          <a href="#url"><img src="https://via.placeholder.com/640x600" class="img-fluid img-curve" alt=""></a>
+          <h5>Prof. Piyush Kumar Singh</h5>
+          <h4><a class='noMargin' href="#url">Professor  of Advanced Chemistry</a></h4>
+          <p class='noMargin'>B.Sc, Ex-IAF</p>
+        </div>
+      </div>
+	  <div style='height:100px;'></div>
+    </div>
+  </section>
+</div>
+
+
+	
+
+<!--section class="w3l-index3" id="process">
   <div class="grid top-bottom py-5">
     <div class="container py-lg-3">
-      <div class="header-section white text-center">
-        <h3>How it works</h3>
-      </div>
+      
       <div class="middle-section row mt-5 pt-3 text-center">
         <div class="three-grids-columns col-lg-3 col-6 ">
-          <div class="icon"> <span class="">1</span></div>
-          <h4>Bag up all your dirty clothes</h4>
+          <div class="icon"> <span class=""><i class='fa fa-trophy'></i></span></div>
+          <h4>Statistics 1</h4>
 
         </div>
         <div class="three-grids-columns col-lg-3 col-6">
-          <div class="icon"> <span class="">2</span></div>
-          <h4>We pick up your clothes</h4>
+          <div class="icon"> <span class=""><i class='fa fa-leaf'></i></span></div>
+          <h4>Statistics 2</h4>
 
         </div>
         <div class="three-grids-columns col-lg-3 col-6 mt-lg-0 mt-5">
-          <div class="icon"> <span class="">3</span></div>
-          <h4>We clean your clothes</h4>
+          <div class="icon"> <span class=""><i class='fa fa-users'></i></span></div>
+          <h4>Statistics 3</h4>
 
         </div>
         <div class="three-grids-columns col-lg-3 col-6 mt-lg-0 mt-5">
-          <div class="icon"> <span class="">4</span></div>
-          <h4>We deliver clean, folded clothes</h4>
+          <div class="icon"> <span class=""><i class='fa fa-graduation-cap'></i></span></div>
+          <h4>Statistics 4</h4>
 
         </div>
       </div>
     </div>
   </div>
-</section>
-<section class="w3l-index4">
-  <div class="content-4-main py-5">
-    <div class="container py-lg-3">
-      <div class="header-section mb-lg-5 mb-4">
-        <h3>Why Choose Us</h3>
-      </div>
-      <div class="content-info-in row">
-        <div class="video col-lg-6 pr-lg-3">
-          <iframe src="https://www.youtube.com/embed/OjOpAsWf9wA" allowfullscreen></iframe>
-        </div>
-        <div class="content-right col-lg-6 pl-lg-4">
-          <div class="row content4-right-grids mb-lg-5 mb-4">
-            <div class="col-md-2 content4-right-icon">
-              <div class="content4-icon text-md-right">
-                <span class="fa fa-heart-o"></span>
-              </div>
-            </div>
-            <div class="col-md-10 content4-right-info">
-              <h6><a href="#url">100% Happiness Guaranteed</a></h6>
-              <p>Lorem ipsum dolor sit amet,Ea consequuntur illum facere aperiam sequi optio
-                consectetur
-                adipisicing elit.</p>
-            </div>
+</section-->
 
-          </div>
-          <div class="row content4-right-grids mb-lg-5 mb-4">
-            <div class="col-md-2 content4-right-icon">
-              <div class="content4-icon text-md-right">
-                <span class="fa fa-clock-o"></span>
-              </div>
-            </div>
-            <div class="col-md-10 content4-right-info">
-              <h6><a href="#url">Fast & High Quality</a></h6>
-              <p>Lorem ipsum dolor sit amet,Ea consequuntur illum facere aperiam sequi optio
-                consectetur
-                adipisicing elit.</p>
-            </div>
-
-          </div>
-          <div class="row content4-right-grids">
-            <div class="col-md-2 content4-right-icon">
-              <div class="content4-icon text-md-right">
-                <span class="fa fa-bath"></span>
-              </div>
-            </div>
-            <div class="col-md-10 content4-right-info">
-              <h6><a href="#url">Cleaner & Greener</a></h6>
-              <p>Lorem ipsum dolor sit amet,Ea consequuntur illum facere aperiam sequi optio
-                consectetur
-                adipisicing elit.</p>
-            </div>
-
-          </div>
-        </div>
-
-      </div>
-
-    </div>
-  </div>
-</section>
-<!-- services with slider -->
-<section class="w3l-index5 py-5">
-  <div class="container py-lg-4">
-    <div class="header-section text-center">
-      <h3>We Clean Everything</h3>
-    </div>
-    <div class="inner-sec-w3layouts mt-md-5 mt-4">
-      <div class="owl-three owl-carousel owl-theme">
-        <div class="item">
-          <div class="content-left-sec">
-            <a class="blog-link d-block zoom-image" href="#url"><img src="assets/images/service1.jpg" class="img-fluid scale-image"
-                alt=""></a>
-            <div class="blog-info">
-              <a href="#url">
-                <h4 class="mb-0">Cleaning service title</h4>
-              </a>
-              <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Earum, cum. Donec luctus rhoncus dignissim. Integer blandit mattis arcu, id viverra
-                orci viverra.</p>
-            </div>
-          </div>
-        </div>
-        <div class="item">
-          <div class="content-left-sec">
-            <a class="blog-link d-block zoom-image" href="#url"><img src="assets/images/service2.jpg" class="img-fluid scale-image"
-                alt=""></a>
-            <div class="blog-info">
-              <a href="#url">
-                <h4 class="mb-0">Cleaning service title</h4>
-              </a>
-              <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Earum, cum. Donec luctus rhoncus dignissim. Integer blandit mattis arcu, id viverra
-                orci viverra.</p>
-            </div>
-          </div>
-        </div>
-        <div class="item">
-          <div class="content-left-sec">
-            <a class="blog-link d-block zoom-image" href="#url"><img src="assets/images/service3.jpg" class="img-fluid scale-image"
-                alt=""></a>
-            <div class="blog-info">
-              <a href="#url">
-                <h4 class="mb-0">Cleaning service title</h4>
-              </a>
-              <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Earum, cum. Donec luctus rhoncus dignissim. Integer blandit mattis arcu, id viverra
-                orci viverra.</p>
-            </div>
-          </div>
-        </div>
-        <div class="item">
-          <div class="content-left-sec">
-            <a class="blog-link d-block zoom-image" href="#url"><img src="assets/images/service4.jpg" class="img-fluid scale-image"
-                alt=""></a>
-            <div class="blog-info">
-              <a href="#url">
-                <h4 class="mb-0">Cleaning service title</h4>
-              </a>
-              <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Earum, cum. Donec luctus rhoncus dignissim. Integer blandit mattis arcu, id viverra
-                orci viverra.</p>
-            </div>
-          </div>
-        </div>
-        <div class="item">
-          <div class="content-left-sec">
-            <a class="blog-link d-block zoom-image" href="#url"><img src="assets/images/service5.jpg" class="img-fluid scale-image"
-                alt=""></a>
-            <div class="blog-info">
-              <a href="#url">
-                <h4 class="mb-0">Cleaning service title</h4>
-              </a>
-              <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Earum, cum. Donec luctus rhoncus dignissim. Integer blandit mattis arcu, id viverra
-                orci viverra.</p>
-            </div>
-          </div>
-        </div>
-        <div class="item">
-          <div class="content-left-sec">
-            <a class="blog-link d-block zoom-image" href="#url"><img src="assets/images/service6.jpg" class="img-fluid scale-image"
-                alt=""></a>
-            <div class="blog-info">
-              <a href="#url">
-                <h4 class="mb-0">Cleaning service title</h4>
-              </a>
-              <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Earum, cum. Donec luctus rhoncus dignissim. Integer blandit mattis arcu, id viverra
-                orci viverra.</p>
-            </div>
-          </div>
-        </div>
-        <div class="item">
-          <div class="content-left-sec">
-            <a class="blog-link d-block zoom-image" href="#url"><img src="assets/images/service7.jpg" class="img-fluid scale-image"
-                alt=""></a>
-            <div class="blog-info">
-              <a href="#url">
-                <h4 class="mb-0">Cleaning service title</h4>
-              </a>
-              <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Earum, cum. Donec luctus rhoncus dignissim. Integer blandit mattis arcu, id viverra
-                orci viverra.</p>
-            </div>
-          </div>
-        </div>
-
-      </div>
-    </div>
-  </div>
-</section>
-<!-- //services with slider -->
-<!-- pricing version 2 -->
-<section class="w3l-pricing" id="pricing">
-  <div class="pricing py-5">
-    <div class="container py-lg-3">
-      <div class="header-section mb-4 text-center">
-        <h3>
-          Laundry Service Package</h3>
-      </div>
-      <div class="row">
-        <!-- Table #1  -->
-        <div class="col-lg-4 col-sm-6 mt-4">
-          <div class="card card__hover">
-            <div class="card-header">
-              <h3 class="display-4"><span class="currency">$</span>19<span class="period">/month</span></h3>
-            </div>
-            <div class="card-block">
-              <h4 class="card-title">
-                Basic Plan
-              </h4>
-              <ul class="list-group">
-                <li class="list-group-item">4 t-shirts</li>
-                <li class="list-group-item">1 pairs of jeans</li>
-                <li class="list-group-item">3 button-down shirts</li>
-                <li class="list-group-item">1 pair of shorts</li>
-                <li class="list-group-item">7 pairs of underwear</li>
-                <li class="list-group-item">6 pairs of socks</li>
-                <li class="list-group-item">1 towel</li>
-                <li class="list-group-item">1 set of sheets</li>
-                <li class="list-group-item">1 set of sheets (every other week)</li>
-              </ul>
-              <a href="#url" class="btn theme-button btn-outline-primary mt-4">Choose Plan</a>
-            </div>
-          </div>
-        </div>
-
-        <!-- Table #2  -->
-        <div class="col-lg-4 col-sm-6 mt-4">
-          <div class="card card__hover active">
-            <div class="card-header">
-              <h3 class="display-4"><span class="currency">$</span>29<span class="period">/month</span></h3>
-            </div>
-            <div class="card-block">
-              <h4 class="card-title">
-                Regular Plan
-              </h4>
-              <ul class="list-group">
-                <li class="list-group-item">4 t-shirts</li>
-                <li class="list-group-item">1 pairs of jeans</li>
-                <li class="list-group-item">3 button-down shirts</li>
-                <li class="list-group-item">1 pair of shorts</li>
-                <li class="list-group-item">7 pairs of underwear</li>
-                <li class="list-group-item">6 pairs of socks</li>
-                <li class="list-group-item">1 towel</li>
-                <li class="list-group-item">1 set of sheets</li>
-                <li class="list-group-item">1 set of sheets</li>
-              </ul>
-              <a href="#url" class="btn theme-button btn-primary mt-4">Choose Plan</a>
-            </div>
-          </div>
-        </div>
-
-        <!-- Table #3  -->
-        <div class="col-lg-4 offset-md-0 offset-sm-3 col-sm-6 mt-4">
-          <div class="card card__hover">
-            <div class="card-header">
-              <h3 class="display-4"><span class="currency">$</span>39<span class="period">/month</span></h3>
-            </div>
-            <div class="card-block">
-              <h4 class="card-title">
-                Premium Plan
-              </h4>
-              <ul class="list-group">
-                <li class="list-group-item">4 t-shirts</li>
-                <li class="list-group-item">1 pairs of jeans</li>
-                <li class="list-group-item">3 button-down shirts</li>
-                <li class="list-group-item">1 pair of shorts</li>
-                <li class="list-group-item">7 pairs of underwear</li>
-                <li class="list-group-item">6 pairs of socks</li>
-                <li class="list-group-item">1 towel</li>
-                <li class="list-group-item">1 set of sheets</li>
-                <li class="list-group-item">1 set of sheets (every other week)</li>
-              </ul>
-              <a href="#url" class="btn theme-button btn-outline-primary mt-4">Choose Plan</a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-<!-- //pricing version 2 -->
 <section class="w3l-testimonials" id="testimonials">
   <div class="testimonials py-5">
     <div class="container py-lg-3">
@@ -520,109 +314,9 @@
     </div>
   </div>
 </section>
-<section class="w3l-subscribe" id="newsletter">
-    <div class="main-w3 py-5">
-        <div class="container py-lg-3">
-            <div class="row text-center">
-                <div class="header-section col-lg-12">
-                    <h3>Newsletter Signup</h3>
-                    <p>If you want to receive our all weekly updates about new offers and discount, signup below.</p>
-                </div>
-                <div class="main-midd-2 col-lg-6 col-md-8 mx-auto mt-md-5 mt-4">
-                    <form action="#" method="post" class="rightside-form">
-                        <input type="email" class="form-control" name="email" placeholder="Enter your email" required>
-                        <button class="btn btn-primary theme-button" type="submit">Subscribe</button>
-                    </form>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<footer class="w3l-footer">
-  <div class="footer pt-5">
-    <div class="container pt-lg-3">
-      <div class="text-txt">
-        <div class="right-side">
-          <div class="row">
-            <div class="col-lg-5 sub-one-left pr-md-5">
-              <h6>About </h6>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa officia dicta magni ea at, culpa atque, rerum dolorum voluptas alias
-                qui temporibus ex totam distinctio nobis impedit minus! Voluptatibus ullam rerum, nihil blanditiis
-                quos atque iusto!</p>
 
-            </div>
-            <div class="col-lg-3 col-md-6 mt-lg-0 mt-5 sub-two-right">
-              <h6>Quick links</h6>
-              <ul>
-                <li><a href="index.html">Home</a></li>
-                <li><a href="about.html">About</a></li>
-                <li><a href="services.html">Services</a></li>
-                <li><a href="contact.html">Contact</a></li>
-              </ul>
-
-            </div>
-            <div class="col-lg-4 col-md-6 mt-lg-0 mt-5 sub-one-left">
-              <h6>Contact </h6>
-              <div class="column2">
-                <div class="href1"><span class="fa fa-envelope-o" aria-hidden="true"></span><a href="mailto:info@example.com">info@example.com</a>
-                </div>
-                <div class="href2"><span class="fa fa-phone" aria-hidden="true"></span><a href="tel:+44-123-456-78">+44-123-456-78</a>
-                </div>
-                <div>
-                  <p class="contact-para"><span class="fa fa-map-marker" aria-hidden="true"></span>New York, 235 Terry Lane, 10001</p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="below-section mt-5 py-3">
-      <div class="container">
-        <div class="copyright-footer">
-          <div class="columns">
-            <ul class="social text-lg-left text-center">
-              <li><a href="#"><span class="fa fa-facebook" aria-hidden="true"></span></a></li>
-              <li><a href="#"><span class="fa fa-linkedin" aria-hidden="true"></span></a></li>
-              <li><a href="#"><span class="fa fa-twitter" aria-hidden="true"></span></a></li>
-              <li><a href="#"><span class="fa fa-google" aria-hidden="true"></span></a></li>
-              <li><a href="#"><span class="fa fa-github" aria-hidden="true"></span></a></li>
-            </ul>
-          </div>
-          <div class="columns text-lg-right text-center">
-            <p>&copy; 2020 Washing. All rights reserved | Design by <a href="https://w3layouts.com/">W3Layouts</a></p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <!-- move top -->
-  <button onclick="topFunction()" id="movetop" title="Go to top">
-    <span class="fa fa-arrow-up" aria-hidden="true"></span>
-  </button>
-  <script>
-    // When the user scrolls down 20px from the top of the document, show the button
-    window.onscroll = function () {
-      scrollFunction()
-    };
-
-    function scrollFunction() {
-      if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
-        document.getElementById("movetop").style.display = "block";
-      } else {
-        document.getElementById("movetop").style.display = "none";
-      }
-    }
-
-    // When the user clicks on the button, scroll to the top of the document
-    function topFunction() {
-      document.body.scrollTop = 0;
-      document.documentElement.scrollTop = 0;
-    }
-  </script>
-  <!-- /move top -->
-</footer>
+<?php include 'include/footerEnquery.php'; ?>
+<?php include 'include/footer.php'; ?>
 
 <!-- jQuery JS -->
 <script src="assets/js/jquery-3.4.1.slim.min.js"></script>
