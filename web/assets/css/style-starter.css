@@ -7888,7 +7888,7 @@ a.brand-logo img {
     padding: 0 0px; } }
 
 .w3l-index3 .top-bottom {
-  background: url(../images/banner3.jpg?1) no-repeat bottom;
+  background: url(../images/banner3.jpg?2) no-repeat bottom;
   background-size: cover;
   position: relative;
   z-index: 0; }
@@ -8421,7 +8421,7 @@ button.owl-next {
 /*-- //pricing --*/
 .w3l-testimonials .testimonials {
   background-size: cover;
-  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.82), rgba(0, 0, 0, 0.9)), url(../images/service3.jpg?1);
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.82), rgba(0, 0, 0, 0.9)), url(../images/service3.jpg?2);
   background-repeat: no-repeat, no-repeat, no-repeat;
   background-position: center;
   background-attachment: fixed; }
@@ -8553,7 +8553,7 @@ button.owl-next {
     padding: 15px; } }
 
 .w3l-footer .footer {
-  background: url(../images/banner1.jpg?1) no-repeat 0px 0px;
+  background: url(../images/banner1.jpg?2) no-repeat 0px 0px;
   background-size: cover;
   background-position: center;
   position: relative;
@@ -8866,7 +8866,7 @@ button.owl-next {
 
 .w3l-about4 .new-block {
   background-size: cover;
-  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.72), rgba(0, 0, 0, 0.1)), url(../images/banner2.jpg?1);
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.72), rgba(0, 0, 0, 0.1)), url(../images/banner2.jpg?2);
   background-repeat: no-repeat, no-repeat, no-repeat;
   background-position: center;
   background-attachment: fixed;
@@ -9120,7 +9120,7 @@ button.owl-next {
       margin-bottom: 10px; } }
 
 .w3l-services2 .mobile-info {
-  background-image: linear-gradient(to right, white, rgba(255, 255, 255, 0.92)), url(../images/banner.jpg?1);
+  background-image: linear-gradient(to right, white, rgba(255, 255, 255, 0.92)), url(../images/banner.jpg?2);
   background-repeat: no-repeat, no-repeat, no-repeat;
   background-position: center;
   background-attachment: fixed; }
