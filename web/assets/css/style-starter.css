@@ -9384,15 +9384,16 @@ button.owl-next {
 
 @media (min-width: 576px){
 	.feature-body .feature-info.mt-4{
-		height: 175px;
+		/*height: 175px;*/
 	}
 }
 
 .hideInMobile{ display:none;}
 .hideInDesktop{ display:none;}
 @media (min-width: 992px){
-	.hideInMobile{ display:inline-block;}
+	.hideInMobile{ display:block;}
+	.featureText {height:90px;}
 }
 @media (max-width: 991px){
-	.hideInDesktop{ display:inline-block;}
+	.hideInDesktop{ display:block;}
 }

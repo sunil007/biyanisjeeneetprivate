@@ -6,7 +6,7 @@
                     <h3>Enquire Now</h3>
                 </div>
                 <div class="main-midd-2 col-lg-6 col-md-8 mx-auto mt-md-5 mt-4">
-                    <form action="#" method="post">
+                    <form action="#" onsubmit="return generateEnquiry(this)" method="post">
 						<span class="rightside-form">
 							<input type="name" class="form-control" name="name" placeholder="Enter your name" required>
 						</span>

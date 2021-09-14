@@ -2,7 +2,7 @@
 <html lang="en">
 <?php include 'include/head.php'; ?>
 <body>
-<div style='font-size:20px'>
+<div style='font-size:27px'>
 	<i class="fa fa-stack-1x"></i>
 	<i class="fa fa-stack-2x"></i>
 	<i class="fa fa-inverse"></i>

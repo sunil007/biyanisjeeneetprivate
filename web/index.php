@@ -68,35 +68,32 @@
   </div>
 </section>
 <!-- index1 -->
-<div class="w3l-index1 py-5" id="about">
+<div class="w3l-index1 py-4" id="about">
   <div class="content-main pt-lg-5 pt-md-3 pb-0">
     <div class="container">
       <div class="row">
         <!--div class="offset-lg-0 col-lg-4 offset-md-3 col-md-6 offset-sm-2 col-sm-8  content-photo">
           <a href="#"><img src="assets/images/biyanis_symbol_lg.png" class="img-fluid" alt="content-photo" style='background: none;'></a>
         </div-->
-        <div class="col-lg-12 content-left mt-lg-0 mt-5 pl-lg-5">
-          <h3>About Us</h3>
-          <p class="mb-0 big1Text">Being educators from the last 8 years and mentoring young, promising minds during their school journey, we have seen talents being misguided. We've seen budding engineers, doctors, scientists, CAs, pilots, professors, artists landing no where.</p>
-          <p class="mb-0 big1Text">So after 6 years of building a foundation of trust, a culture of academics, an era of doubt-solving and concept-driven studies...<br><b><i>Here we are with the well-known faculties of Mumbai and the age-old teaching traditions of Kota.</i></b></p>
-		  <p class='big1Text'>Our ultimate aim is to approach education in the way it is meant to be. We want to make sure quality education is available to all and keep the students at the centre of all academics related to them.</p>		  
-        </div>
-		<div class="col-lg-12 content-left mt-lg-0 mt-5 pl-lg-5">
-			<p class='big1Text'>Established in 2014, Biyani's Super 30 has not only produced the best results in town for consecutive years but it has also developed a strong academic culture that keeps challenging the students to rise to new intellectual levels. It is our teaching faculties, strong management and unique relationship with students that has led us to this venture of guiding even more students in their academic journeys.</p>
-			<p class='big1Text'><b>Biyani's JEE & NEET Private has been conceptualised with the same care, principles and work ethics that Biyani's Super 30 is known for.</b></p>
-			<div class='text-center'>
-				<div data-toggle="modal" data-target="#enquireModal" class="theme-button btn-outline-primary btn mt-lg-5 mt-4">Enquire Now</div>
-			</div>
+		<div class="col-lg-12 text-center">	
+			<h3 style='font-size:2.3em;'>About Us</h3>
 		</div>
+		<div class="offset-lg-1 col-lg-2 text-center">
+			<img src='./assets/images/biyanis_symbol_lg.png' style='max-width: 200px;width: 100%;'>
+		</div>
+        <div class="col-lg-8">
+			<div style='height:20px'></div>
+			<p class="mb-0 big1Text">Another strong pillar of Biyani’s Education Group, we have established <b>Biyani’s JEE NEET Private</b> on the same principles that we are known for - complete transparency in education. Firmly rooted in the teaching pattern of Kota & the speed of Mumbai, we are a group of experienced directors who have teamed up for a single mission - to produce the best JEE & NEET results in the country.</p>
+        </div>
       </div>
     </div>
   </div>
 </div>
 <!-- //index1 -->
-<!--section class="w3l-index2">
+<section class="w3l-index2">
   <div class="features-main pb-5 pt-0">
     <div class="container pb-lg-3">
-      <div class="row features">
+      <div class="row features text-center">
 		<div class="col-lg-3 col-sm-6 feature-grid">
           <a href="#url">
             <div class="feature-body">
@@ -105,7 +102,6 @@
               </div>
               <div class="feature-info mt-4">
                 <h3 class="feature-titel mb-3">Speed of Mumbai & Tradition of Kota</h3>
-                <p class="feature-text">Well-Known faculties of Mumbai and the age-old teaching traditions of Kota.
                 </p>
               </div>
             </div>
@@ -119,8 +115,6 @@
               </div>
               <div class="feature-info mt-4">
                 <h3 class="feature-titel mb-3">All Time Available Core Faculties</h3>
-                <p class="feature-text">Highly qualified and expert teaching staff. specialized for each subject.
-                </p>
               </div>
             </div>
           </a>
@@ -133,9 +127,7 @@
                 <span class="fa fa-group" aria-hidden="true"></span>
               </div>
               <div class="feature-info mt-4">
-                <h3 class="feature-titel mb-3">Experienced Directors</h3>
-                <p class="feature-text">TBD TBD TBD TBD TBD TBD TBD TBD TBD TBD TBD TBD TBD TBD TBD TBD TBD TBD 
-                </p>
+                <h3 class="feature-titel mb-3">&nbsp;&nbsp;Experienced Directors&nbsp;&nbsp;</h3>
                 <div class="hover">
                 </div>
               </div>
@@ -150,16 +142,21 @@
               </div>
               <div class="feature-info mt-4">
                 <h3 class="feature-titel mb-3">Trust of 800+ Students</h3>
-                <p class="feature-text">TBD TBD TBD TBD TBD TBD TBD TBD TBD TBD TBD TBD TBD TBD TBD TBD TBD TBD
-                </p>
               </div>
             </div>
           </a>
         </div>        
       </div>
+	  <div class='row'>
+		<div class="col-lg-12 content-left mt-lg-0 mt-5 pl-lg-5">
+			<div class='text-center'>
+				<div data-toggle="modal" data-target="#enquireModal" class="theme-button btn-outline-primary btn mt-lg-5 mt-4">Enquire Now</div>
+			</div>
+		</div>
+	  </div>
     </div>
   </div>
-</section-->
+</section>
 
 <section class="w3l-index2">
   <div class="features-main pb-5 pt-0">
@@ -183,19 +180,19 @@
       </div>
       <div class="row">
         <div class="col-md-4 col-sm-6 mt-0 grids5-info">
-          <a href="#url"><img src="https://via.placeholder.com/640x600" class="img-fluid img-curve" alt=""></a>
+          <a href="#url"><img src="./assets/images/Rakesh Shah.png" class="img-fluid img-curve" alt=""></a>
           <h5>Prof. Rakesh Shah</h5>
           <h4><a class='noMargin' href="#">Professor of Advanced Physics </a></h4>
           <p class='noMargin'>B.E, MU</p>
         </div>
         <div class="col-md-4 col-sm-6 mt-sm-0 mt-5 grids5-info">
-          <a href="#url"><img src="https://via.placeholder.com/640x600" class="img-fluid img-curve" alt=""></a>
+          <a href="#url"><img src="./assets/images/Yash Biyani.png" class="img-fluid img-curve" alt=""></a>
           <h5>Prof. Yash  Biyani</h5>
           <h4><a class='noMargin' href="#url">Professor of Advanced Chemistry</a></h4>
           <p class='noMargin'>B.Tech, RGIPT | IITK</p>
         </div>
         <div class="col-md-4 col-sm-6 mt-md-0 mt-5 grids5-info">
-          <a href="#url"><img src="https://via.placeholder.com/640x600" class="img-fluid img-curve" alt=""></a>
+          <a href="#url"><img src="./assets/images/Piyush Singh.png" class="img-fluid img-curve" alt=""></a>
           <h5>Prof. Piyush Kumar Singh</h5>
           <h4><a class='noMargin' href="#url">Professor  of Advanced Chemistry</a></h4>
           <p class='noMargin'>B.Sc, Ex-IAF</p>
@@ -243,7 +240,7 @@
   <div class="testimonials py-5">
     <div class="container py-lg-3">
       <div class="header-section white text-center">
-        <h3>Customer Words</h3>
+        <h3>Students Words</h3>
       </div>
       <div class="row mt-4">
         <div class="col-md-10 mx-auto">
@@ -317,95 +314,7 @@
 
 <?php include 'include/footerEnquery.php'; ?>
 <?php include 'include/footer.php'; ?>
-
-<!-- jQuery JS -->
-<script src="assets/js/jquery-3.4.1.slim.min.js"></script>
-<!-- Template JavaScript -->
-<script src="assets/js/owl.carousel.js"></script>
-
-<!-- script for testimonials -->
-<script>
-  $(document).ready(function () {
-    $('.owl-two').owlCarousel({
-      loop: true,
-      margin: 0,
-      nav: false,
-      responsiveClass: true,
-      autoplay: false,
-      autoplayTimeout: 5000,
-      autoplaySpeed: 1000,
-      autoplayHoverPause: false,
-      responsive: {
-        0: {
-          items: 1,
-          nav: false
-        },
-        480: {
-          items: 1,
-          nav: false
-        },
-        667: {
-          items: 1,
-          nav: false
-        },
-        1000: {
-          items: 1,
-          nav: false
-        }
-      }
-    })
-  })
-</script>
-<!-- //testimonials owlcarousel -->
-
-<!-- for services carousel slider -->
-<script>
-  $(document).ready(function () {
-    $('.owl-three').owlCarousel({
-      loop: true,
-      stagePadding: 20,
-      margin: 20,
-      autoplay: true,
-      autoplayTimeout: 5000,
-      autoplaySpeed: 1000,
-      autoplayHoverPause: false,
-      nav: false,
-      responsive: {
-        0: {
-          items: 1
-        },
-        600: {
-          items: 2
-        },
-        1000: {
-          items: 4
-        }
-      }
-    })
-  })
-</script>
-<!-- //for services carousel slider -->
-
-<!-- stats number counter-->
-<script src="assets/js/jquery.waypoints.min.js"></script>
-<script src="assets/js/jquery.countup.js"></script>
-<script>
-  $('.counter').countUp();
-</script>
-<!-- //stats number counter -->
-
-<!-- disable body scroll which navbar is in active -->
-<script>
-  $(function () {
-    $('.navbar-toggler').click(function () {
-      $('body').toggleClass('noscroll');
-    })
-  });
-</script>
-<!-- disable body scroll which navbar is in active -->
-
-<!-- Bootstrap JS -->
-<script src="assets/js/bootstrap.min.js"></script>
+<?php include 'include/js.php'; ?>
 <?php include 'include/enquireModal.php'; ?>
 </body>
 
