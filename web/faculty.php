@@ -27,6 +27,26 @@
 		
 		<table>
 			<tr style='border-bottom: 2px solid #23517c;'>
+				<td style='vertical-align: bottom;'>
+					<div style='max-width: 400px;display: block;margin: auto;'>
+						<img src="assets/images/Yash Biyani-Mirror.png" class="img-fluid hideInDesktop" alt="" />
+					</div>
+					<div style='height:40px'></div>
+					<p style='font-weight: bold;color: #c81e4f;font-size: 1.2em;'>
+						Prof. Yash Biyani
+						<span style="font-weight: normal;font-size: 0.85em;color: #27537f;">The Mathemagician</span>
+					</p>
+					<p class="mb-3" style='color:#333;font-weight: bold;font-size: 0.98em;'>Professor of Advanced Chemistry  | B.Tech, RGIPT | IITK</span></p>
+					<p class="mb-3">Teaching experience of more than 7 years, guiding more than 6000 students, building passion for question-solving and the drive to ask doubts - Mr. Yashvardhan Biyani is an established professor of Chemistry. After graduating from RGIPT-IITK with a B.Tech in Petroleum Engineering, he quickly dived into the education field with a single purpose - to change the academic culture present today, to bring concept-driven teaching back into the classrooms and to provide students with as many opportunities as possible to test and challenge themselves.</p>
+				</td>
+				<td width='33%' class='hideInMobile' style='border-bottom: 8px solid #c81e4f;'>
+					<img src="assets/images/Yash Biyani-Mirror.png" class="img-fluid" alt="" style='margin-bottom: -1px;'/>
+				</td>
+			</tr>
+		</table>
+		
+		<table>
+			<tr style='border-bottom: 2px solid #23517c;'>
 				<td width='33%' class='hideInMobile' style='border-bottom: 8px solid #c81e4f;'>
 					<img src="assets/images/Rakesh Shah.png" class="img-fluid" alt="" style='margin-bottom: -1px;'/>
 				</td>
@@ -109,7 +129,7 @@
 			</tr>
 		</table>
 		
-		<table>
+		<!--table>
 			<tr style='border-bottom: 2px solid #23517c;'>
 				<td width='33%' class='hideInMobile' style='border-bottom: 8px solid #c81e4f;'>
 					<img src="assets/images/Ninad Patade.png" class="img-fluid" alt="" style='margin-bottom: -1px;'/>
@@ -128,29 +148,11 @@
 				</td>
 				
 			</tr>
-		</table>
+		</table-->
 		
 		
 		
-		<table>
-			<tr style='border-bottom: 2px solid #23517c;'>
-				<td style='vertical-align: bottom;'>
-					<div style='max-width: 400px;display: block;margin: auto;'>
-						<img src="assets/images/Yash Biyani-Mirror.png" class="img-fluid hideInDesktop" alt="" />
-					</div>
-					<div style='height:40px'></div>
-					<p style='font-weight: bold;color: #c81e4f;font-size: 1.2em;'>
-						Prof. Yash Biyani
-						<span style="font-weight: normal;font-size: 0.85em;color: #27537f;">The Mathemagician</span>
-					</p>
-					<p class="mb-3" style='color:#333;font-weight: bold;font-size: 0.98em;'>Professor of Advanced Chemistry  | B.Tech, RGIPT | IITK</span></p>
-					<p class="mb-3">Teaching experience of more than 7 years, guiding more than 6000 students, building passion for question-solving and the drive to ask doubts - Mr. Yashvardhan Biyani is an established professor of Chemistry. After graduating from RGIPT-IITK with a B.Tech in Petroleum Engineering, he quickly dived into the education field with a single purpose - to change the academic culture present today, to bring concept-driven teaching back into the classrooms and to provide students with as many opportunities as possible to test and challenge themselves.</p>
-				</td>
-				<td width='33%' class='hideInMobile' style='border-bottom: 8px solid #c81e4f;'>
-					<img src="assets/images/Yash Biyani-Mirror.png" class="img-fluid" alt="" style='margin-bottom: -1px;'/>
-				</td>
-			</tr>
-		</table>
+		
 		
 		<div style='height:40px'></div>
 		
