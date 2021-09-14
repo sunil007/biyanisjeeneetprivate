@@ -13,7 +13,7 @@
               <h6>Quick links</h6>
               <ul>
                 <li><a href="index.php">Home</a></li>
-                <li><a href="about.html">About</a></li>
+                <li><a href="overview.php">About</a></li>
                 <li><a href="services.html">Services</a></li>
                 <li><a href="contact.html">Contact</a></li>
               </ul>
@@ -24,7 +24,7 @@
               <div class="column2">
                 <div class="href1"><span class="fa fa-envelope-o" aria-hidden="true"></span><a href="mailto:biyanisjeeneet@gmail.com">biyanisjeeneet@gmail.com</a>
                 </div>
-                <div class="href2"><span class="fa fa-phone" aria-hidden="true"></span><a href="tel:+91-8454-88-8439">+91-8454-88-8439</a>
+                <div class="href2"><span class="fa fa-phone" aria-hidden="true"></span><a href="tel:+91-8454-88-8439">+91 8454-88-8439</a>
                 </div>
                 <div>
                   <p class="contact-para"><span class="fa fa-map-marker" aria-hidden="true"></span>Shop no. 103/104, C-Wing, 1st Floor, Dev Paradise, Kanakia Road, Above Axis Bank, Mira Road (East), Thane - 401107.</p>
@@ -49,7 +49,7 @@
             </ul>
           </div>
           <div class="columns text-lg-right text-center">
-            <p>&copy; 2021 Biyanis Education Group. All rights reserved</p>
+            <p>&copy; 2021 Biyanis Education Group. All Rights Reserved</p>
           </div>
         </div>
       </div>

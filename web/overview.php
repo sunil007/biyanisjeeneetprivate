@@ -7,7 +7,7 @@
 <section class="w3l-breadcrum">
   <div class="breadcrum">
     <div class="container">
-      <p><a href="index.html">Home</a> &nbsp; / &nbsp; About</p>
+      <p><a href="index.php">Home</a> &nbsp; / &nbsp; About</p>
     </div>
   </div>
 </section>

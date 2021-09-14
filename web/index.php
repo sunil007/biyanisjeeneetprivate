@@ -127,7 +127,7 @@
                 <span class="fa fa-group" aria-hidden="true"></span>
               </div>
               <div class="feature-info mt-4">
-                <h3 class="feature-titel mb-3">&nbsp;&nbsp;Experienced Directors&nbsp;&nbsp;</h3>
+                <h3 class="feature-titel mb-3">&nbsp;Experienced&nbsp; &nbsp;Directors&nbsp;</h3>
                 <div class="hover">
                 </div>
               </div>

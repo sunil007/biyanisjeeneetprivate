@@ -30,7 +30,10 @@
 							<li class="nav-item <?php if($curPageName == "index.php") echo 'active'; ?>">
 								<a class="nav-link" href="index.php">Home</a>
 							</li>
-							<li class="nav-item dropdown @@dropdown-active">
+							<li class="nav-item <?php if($curPageName == "overview.php") echo 'active'; ?>">
+								<a class="nav-link" href="overview.php">About</a>
+							</li>
+							<!--li class="nav-item dropdown @@dropdown-active">
 								<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
 									About
 								</a>
@@ -38,7 +41,7 @@
 									<a class="dropdown-item @@faq-active" href="overview.php">Overview</a>
 									<a class="dropdown-item @@blog-active" href="directors-desk.php">Directors' Desk</a>
 								</div>
-							</li>
+							</li-->
 							
 							<li class="nav-item ">
 								<a class="nav-link" href="faculty.php">Faculty</a>
