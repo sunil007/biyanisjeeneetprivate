@@ -9382,6 +9382,20 @@ button.owl-next {
 .noPaddin{ padding:0px !important; }
 .noMargin{ margin:0px !important; }
 
+.ripplecontainer:hover .ripple {
+  animation: ripple 1s linear infinite;
+}
+
+@keyframes ripple {
+  0% {
+    box-shadow: 0 0 0 0px rgb(143 41 41 / 99%);
+  }
+  100% {
+    box-shadow: 0 0 0 12px rgb(255 255 255);
+  }
+}
+
+
 @media (min-width: 576px){
 	.feature-body .feature-info.mt-4{
 		/*height: 175px;*/
@@ -9399,3 +9413,6 @@ button.owl-next {
 	.hideInDesktop{ display:block;}
 	td.hideInDesktop{display:table-cell !important;}
 }
+
+
+

@@ -15,6 +15,7 @@
                 <li><a href="index.php">Home</a></li>
                 <li><a href="overview.php">About</a></li>
                 <li><a href="faculty.php">Faculty</a></li>
+                <li><a href="course.php">Course</a></li>
                 <li><a href="contact.php">Contact</a></li>
               </ul>
 

@@ -43,13 +43,13 @@
 								</div>
 							</li-->
 							
-							<li class="nav-item ">
+							<li class="nav-item <?php if($curPageName == "faculty.php") echo 'active'; ?>">
 								<a class="nav-link" href="faculty.php">Faculty</a>
 							</li>
-							<li class="nav-item">
+							<li class="nav-item <?php if($curPageName == "course.php") echo 'active'; ?>">
 								<a class="nav-link" href="course.php">Course</a>
 							</li>
-							<li class="nav-item">
+							<li class="nav-item <?php if($curPageName == "contact.php") echo 'active'; ?>">
 								<a class="nav-link" href="contact.php">Contact</a>
 							</li>
 							
