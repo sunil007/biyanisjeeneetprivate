@@ -160,7 +160,7 @@
 	$(document).ready(function(){
 		checkDefault();
 	});
-	$('[data-type="detailTrigger"]').on('click mouseover', function(){
+	$('[data-type="detailTrigger"]').on('click', function(){
 		detailSelector = $(this).attr('data-href');
 		$("#detailsContainer .detailsNode").hide();
 		$("#detailsContainer "+detailSelector).show();
