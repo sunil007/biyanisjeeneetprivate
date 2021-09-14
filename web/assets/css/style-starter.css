@@ -9392,8 +9392,10 @@ button.owl-next {
 .hideInDesktop{ display:none;}
 @media (min-width: 992px){
 	.hideInMobile{ display:block;}
+	td.hideInMobile{display:table-cell !important;}
 	.featureText {height:90px;}
 }
 @media (max-width: 991px){
 	.hideInDesktop{ display:block;}
+	td.hideInDesktop{display:table-cell !important;}
 }

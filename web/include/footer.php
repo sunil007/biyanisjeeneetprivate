@@ -14,7 +14,7 @@
               <ul>
                 <li><a href="index.php">Home</a></li>
                 <li><a href="overview.php">About</a></li>
-                <li><a href="services.html">Services</a></li>
+                <li><a href="faculty.html">Faculty</a></li>
                 <li><a href="contact.html">Contact</a></li>
               </ul>
 

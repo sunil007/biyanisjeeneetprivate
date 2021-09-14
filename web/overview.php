@@ -173,7 +173,7 @@
             <span class="fa fa-thumbs-o-up"></span>
           </div>
           <p class="counter">800</p>
-          <h4>Happy Student</h4>
+          <h4>Happy Students</h4>
         </div>
       </div>
       <div class="col-lg-3 col-sm-6 mt-lg-0 mt-sm-5 mt-4">
@@ -182,7 +182,7 @@
             <span class="fa fa-calendar"></span>
           </div>
           <p class="counter">8</p>
-          <h4>Year of Experience</h4>
+          <h4>Years of Experience</h4>
         </div>
       </div>
       <div class="col-lg-3 col-sm-6 mt-lg-0 mt-sm-5 mt-4">
