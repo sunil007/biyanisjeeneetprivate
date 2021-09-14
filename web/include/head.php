@@ -1,9 +1,20 @@
+<?php
+	$curPageName = substr($_SERVER["SCRIPT_NAME"],strrpos($_SERVER["SCRIPT_NAME"],"/")+1);  
+	$title = "Biyani's Jee Neet Private";
+	switch($curPageName){
+		case "overview.php": $title = "About - Biyani's Jee Neet Private"; break;
+		case "contact.php": $title = "Contact - Biyani's Jee Neet Private"; break;
+		case "faculty.php": $title = "Faculty - Biyani's Jee Neet Private"; break;
+		case "course.php": $title = "Course - Biyani's Jee Neet Private"; break;
+		default : $title = "Biyani's Jee Neet Private"; break;
+	}
+?>
 <head>
   <!-- Required meta tags -->
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-  <title>Biyani's Jee Neet Private</title>
+  <title><?php echo $title; ?></title>
 
   <!-- web fonts -->
   <link href="//fonts.googleapis.com/css?family=Roboto:400,700,900&display=swap" rel="stylesheet">
