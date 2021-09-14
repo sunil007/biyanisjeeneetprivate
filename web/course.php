@@ -21,36 +21,36 @@
       <div class="row mobile-info-inn mx-lg-0">
         <div class="col-lg-4 mobile-right">
           <div class="row mobile-right-grids mb-lg-5 mb-4 ripplecontainer" data-type='detailTrigger' data-href='#jeeAdvanceDetail'>
-            <div class="col-md-2 col-lg-3 pr-0 mobile-right-icon">
+            <div class="col-md-2 col-lg-3 pr-0 col-3 mobile-right-icon">
               <div class="mobile-icon ripple">
                 <img src="assets/images/banner.jpg" class="img-fluid" alt="" />
               </div>
             </div>
-            <div class="col-md-10 col-lg-9 mobile-right-info">
+            <div class="col-md-10 col-lg-9 mobile-right-info col-9">
               <h6><a href="#url">JEE ADVANCED</a></h6>
               <p>Lorem ipsum dolor sit amet,Ea sed illum facere aperiam sequi optio consectetur
                 adipisicing elit.</p>
             </div>
           </div>
           <div class="row mobile-right-grids mb-lg-5 mb-4 ripplecontainer" data-type='detailTrigger' data-href='#neetDetail'>
-            <div class="col-md-2 col-lg-3 pr-0 mobile-right-icon">
+            <div class="col-md-2 col-lg-3 pr-0 col-3 mobile-right-icon">
               <div class="mobile-icon ripple">
                 <img src="assets/images/banner1.jpg" class="img-fluid" alt="" />
               </div>
             </div>
-            <div class="col-md-10 col-lg-9 mobile-right-info">
+            <div class="col-md-10 col-lg-9 mobile-right-info col-9">
               <h6><a href="#url">NEET</a></h6>
               <p>Lorem ipsum dolor sit amet,Ea sed illum facere aperiam sequi optio consectetur
                 adipisicing elit.</p>
             </div>
           </div>
           <div class="row mobile-right-grids ripplecontainer" data-type='detailTrigger' data-href='#jeeMainsDetail'>
-            <div class="col-md-2 col-lg-3 pr-0 mobile-right-icon">
+            <div class="col-md-2 col-lg-3 pr-0 col-3 mobile-right-icon">
               <div class="mobile-icon ripple">
                 <img src="assets/images/banner2.jpg" class="img-fluid" alt="" />
               </div>
             </div>
-            <div class="col-md-10 col-lg-9 mobile-right-info">
+            <div class="col-md-10 col-lg-9 mobile-right-info col-9">
               <h6><a href="#url">JEE MAINS</a></h6>
               <p>Lorem ipsum dolor sit amet,Ea sed illum facere aperiam sequi optio consectetur
                 adipisicing elit.</p>
@@ -110,36 +110,36 @@
         </div>
         <div class="col-lg-4 mobile-right">
           <div class="row mobile-right-grids mb-lg-5 mb-4 ripplecontainer"  data-type='detailTrigger' data-href='#foundationDetail'>
-            <div class="col-md-2 col-lg-3 pr-0 mobile-right-icon">
+            <div class="col-md-2 col-lg-3 pr-0 col-3 mobile-right-icon">
               <div class="mobile-icon ripple">
                 <img src="assets/images/banner.jpg" class="img-fluid" alt="" />
               </div>
             </div>
-            <div class="col-md-10 col-lg-9 mobile-right-info">
+            <div class="col-md-10 col-lg-9 mobile-right-info col-9">
               <h6><a href="#url">FOUNDATION COURSES</a></h6>
               <p>Lorem ipsum dolor sit amet,Ea sed illum facere aperiam sequi optio consectetur
                 adipisicing elit.</p>
             </div>
           </div>
           <div class="row mobile-right-grids mb-lg-5 mb-4 ripplecontainer"  data-type='detailTrigger' data-href='#prayasDetail'>
-            <div class="col-md-2 col-lg-3 pr-0 mobile-right-icon">
+            <div class="col-md-2 col-lg-3 pr-0 col-3 mobile-right-icon">
               <div class="mobile-icon ripple">
                 <img src="assets/images/banner1.jpg" class="img-fluid" alt="" />
               </div>
             </div>
-            <div class="col-md-10 col-lg-9 mobile-right-info">
+            <div class="col-md-10 col-lg-9 mobile-right-info col-9">
               <h6><a href="#url">PRAYAS-AITS</a></h6>
               <p>Lorem ipsum dolor sit amet,Ea sed illum facere aperiam sequi optio consectetur
                 adipisicing elit.</p>
             </div>
           </div>
           <div class="row mobile-right-grids ripplecontainer"  data-type='detailTrigger' data-href='#kvpyDetail'>
-            <div class="col-md-2 col-lg-3 pr-0 mobile-right-icon">
+            <div class="col-md-2 col-lg-3 pr-0 col-3 mobile-right-icon">
               <div class="mobile-icon ripple">
                 <img src="assets/images/banner2.jpg" class="img-fluid" alt="" />
               </div>
             </div>
-            <div class="col-md-10 col-lg-9 mobile-right-info">
+            <div class="col-md-10 col-lg-9 mobile-right-info col-9">
               <h6><a href="#url">KVPY & OLYMPIADS</a></h6>
               <p>Lorem ipsum dolor sit amet,Ea sed illum facere aperiam sequi optio consectetur
                 adipisicing elit.</p>

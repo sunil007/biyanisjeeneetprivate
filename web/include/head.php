@@ -11,7 +11,7 @@
   <!-- web fonts -->
 
   <!-- Template CSS -->
-  <link rel="stylesheet" href="assets/css/style-starter.css?129">
+  <link rel="stylesheet" href="assets/css/style-starter.css?130">
   <link rel="stylesheet" href="assets/css/font-icons.css">
   <link rel="shortcut icon" href="./assets/images/fav.png">
 </head>

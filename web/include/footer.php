@@ -44,13 +44,11 @@
             <ul class="social text-lg-left text-center">
               <li><a href="#"><span class="fa fa-facebook" aria-hidden="true"></span></a></li>
               <li><a href="#"><span class="fa fa-linkedin" aria-hidden="true"></span></a></li>
-              <li><a href="#"><span class="fa fa-twitter" aria-hidden="true"></span></a></li>
-              <li><a href="#"><span class="fa fa-google" aria-hidden="true"></span></a></li>
-              <li><a href="#"><span class="fa fa-github" aria-hidden="true"></span></a></li>
+              <li><a href="#"><span class="fa fa-instagram" aria-hidden="true"></span></a></li>
             </ul>
           </div>
           <div class="columns text-lg-right text-center">
-            <p>&copy; 2021 Biyanis Education Group. All Rights Reserved</p>
+            <p>&copy; 2021 Biyani's Education Group. All Rights Reserved</p>
           </div>
         </div>
       </div>
