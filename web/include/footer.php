@@ -6,7 +6,7 @@
           <div class="row">
             <div class="col-lg-5 sub-one-left pr-md-5">
               <h6>About </h6>
-              <p>Another strong pillar of Biyani’s Education Group, we have established Biyani’s JEE NEET Private on the same principles that we are known for - complete transparency in education. Firmly rooted in the teaching pattern of Kota & the speed of Mumbai.</p>
+              <p>We are a Mumbai-based education institute specializing in JEE & NEET Courses. Our study pattern is greatly influenced by the Kota tradition & we believe in studying with the speed of Mumbai.</p>
 
             </div>
             <div class="col-lg-3 col-md-6 mt-lg-0 mt-5 sub-two-right">
@@ -42,9 +42,9 @@
         <div class="copyright-footer">
           <div class="columns">
             <ul class="social text-lg-left text-center">
-              <li><a href="#"><span class="fa fa-facebook" aria-hidden="true"></span></a></li>
-              <li><a href="#"><span class="fa fa-linkedin" aria-hidden="true"></span></a></li>
-              <li><a href="#"><span class="fa fa-instagram" aria-hidden="true"></span></a></li>
+              <li><a target='_blank' href="https://www.facebook.com/Biyanis-JEE-NEET-Private-102050525281179"><span class="fa fa-facebook" aria-hidden="true"></span></a></li>
+              <li><a target='_blank' href="#"><span class="fa fa-linkedin" aria-hidden="true"></span></a></li>
+              <li><a target='_blank' href="https://www.instagram.com/biyanisjeeneetprivate/?hl=en"><span class="fa fa-instagram" aria-hidden="true"></span></a></li>
             </ul>
           </div>
           <div class="columns text-lg-right text-center">

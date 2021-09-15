@@ -28,7 +28,7 @@
             <span class="fa fa-calendar"></span>
           </div>
           <p class="counter">8</p>
-          <h4>Years of Experience</h4>
+          <h4 style='text-transform: none;'>Years of Experience</h4>
         </div>
       </div>
       <div class="col-lg-3 col-sm-6 mt-lg-0 mt-sm-5 mt-4">

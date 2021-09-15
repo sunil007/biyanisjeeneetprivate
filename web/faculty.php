@@ -16,11 +16,11 @@
     <div class="container py-lg-3">
         <div class="header-section text-center mb-lg-5 mb-4">
 			<div style='height:40px'></div>
-            <h2>Teachers Profile</h2>
+            <h2>Know Our Faculties</h2>
         </div>
         <div class="row">
 			<div class="col-md-12">
-				<h3 class="mb-4 text-center">The well-known faculties of Mumbai and the age-old teaching traditions of kota.</h3>
+				<h3 class="mb-4 text-center">Learn from the Best Teachers in town</h3>
 				<div style='height:40px'></div>
 			</div>
 		</div>
@@ -34,7 +34,7 @@
 					<div style='height:40px'></div>
 					<p style='font-weight: bold;color: #c81e4f;font-size: 1.2em;'>
 						Prof. Yash Biyani
-						<span style="font-weight: normal;font-size: 0.85em;color: #27537f;">The Mathemagician</span>
+						<span style="font-weight: normal;font-size: 0.85em;color: #27537f;">A Man With The Plan</span>
 					</p>
 					<p class="mb-3" style='color:#333;font-weight: bold;font-size: 0.98em;'>Professor of Advanced Chemistry  | B.Tech, RGIPT | IITK</span></p>
 					<p class="mb-3">Teaching experience of more than 7 years, guiding more than 6000 students, building passion for question-solving and the drive to ask doubts - Mr. Yashvardhan Biyani is an established professor of Chemistry. After graduating from RGIPT-IITK with a B.Tech in Petroleum Engineering, he quickly dived into the education field with a single purpose - to change the academic culture present today, to bring concept-driven teaching back into the classrooms and to provide students with as many opportunities as possible to test and challenge themselves.</p>
@@ -98,9 +98,9 @@
 					<div style='height:40px'></div>
 					<p style='font-weight: bold;color: #c81e4f;font-size: 1.2em;'>
 						Prof. Pooja Baiju
-						<span style="font-weight: normal;font-size: 0.85em;color: #27537f;">Professor of Blology</span>
+						<span style="font-weight: normal;font-size: 0.85em;color: #27537f;">The Biology Mastermind</span>
 					</p>
-					<p class="mb-3" style='color:#333;font-weight: bold;font-size: 0.98em;'>M.Tech ln Blotechnology, M.Phil in Plant Tlssue Culture</span></p>
+					<p class="mb-3" style='color:#333;font-weight: bold;font-size: 0.98em;'>Professor of Blology | M.Tech ln Blotechnology, M.Phil in Plant Tlssue Culture</span></p>
 					<p class="mb-3">Mrs. Pooja Baiju has been a professor of Biology for the last 15 years. She has taught at esteemed institutes in India. After pursuing her M.Tech in Biotechnology  from Dr. D.Y. Patil Institute of Biotechnology, she pursued M.Phil in a topic of her expertise - Plant Tissue Culture. She has been a passionate guide, mentor and a teacher to several medical aspirants over the course of last ten years.</p>
 				</td>
 				
@@ -120,7 +120,7 @@
 						<span style="font-weight: normal;font-size: 0.85em;color: #27537f;">The Mathemagician</span>
 					</p>
 					<p class="mb-3" style='color:#333;font-weight: bold;font-size: 0.98em;'>Professor of Advanced Mathematics | B.Tech, llT Dhanbad</span></p>
-					<p class="mb-3">With the teaching experience of more than 12 years, Prof. Rohit Tiwari has guided more than 5000 students in their journey towards IITs, NITs, IIITs and prestigious medical colleges. After graduating from IIT Dhanbad with a degree in Petroleum Engineering, he started training other JEE & Medical aspirants in the field of Mathematics. He has been the Senior Faculty for Maths at Lakshya and other national-level institutes. He truly believes that if taught efficiently, Maths can be a true game-changer for any student who dreams of entering a great engineering or medical college.</p>
+					<p class="mb-3">With a teaching experience of more than 12 years, Prof. Rohit Tiwari has guided more than 5000 students in their journey towards IITs, NITs, IIITs and prestigious medical colleges. After graduating from IIT Dhanbad with a degree in Petroleum Engineering, he started training other JEE & Medical aspirants in the field of Mathematics. He has been the Senior Faculty for Maths at Lakshya and other national-level institutes. He truly believes that if taught efficiently, Maths can be a true game-changer for any student who dreams of entering a great engineering or medical college.</p>
 				</td>
 				<td width='33%' class='hideInMobile' style='border-bottom: 8px solid #c81e4f;'>
 					<img src="assets/images/Rohit Tiwari.png" class="img-fluid" alt="" style='margin-bottom: -1px;'/>

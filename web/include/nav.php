@@ -7,10 +7,10 @@
 			<div style='background: #8f2929;border-bottom: 1px solid #fff;'>
 				<div class='container text-right'>
 				<ul class="social-icons hideInMobile" style='border: none;'>
-					<li><a style='color:#fff;' href="#url"><span class="fa fa-facebook" aria-hidden="true"></span></a></li>
-					<li><a style='color:#fff;border-left: 1px solid #cfcfcf;padding-left: 25px;' href="#url"><span class="fa fa-twitter" aria-hidden="true"></span></a></li>
-					<li><a style='color:#fff;border-left: 1px solid #cfcfcf;padding-left: 25px;' href="#url"><span class="fa fa-instagram" aria-hidden="true"></span></a></li>
-					<li><a style='color:#fff;border-left: 1px solid #cfcfcf;padding-left: 25px;' href="https://www.classmatrix.org/signin" target='_blank'>Sign in &nbsp;<span class="fa fa-lock" aria-hidden="true"></span></a></li>
+					<li><a target='_blank' style='color:#fff;' href="https://www.facebook.com/Biyanis-JEE-NEET-Private-102050525281179"><span class="fa fa-facebook" aria-hidden="true"></span></a></li>
+					<li><a target='_blank' style='color:#fff;border-left: 1px solid #cfcfcf;padding-left: 25px;' href="#url"><span class="fa fa-linkedin" aria-hidden="true"></span></a></li>
+					<li><a target='_blank' style='color:#fff;border-left: 1px solid #cfcfcf;padding-left: 25px;' href="https://www.instagram.com/biyanisjeeneetprivate/?hl=en"><span class="fa fa-instagram" aria-hidden="true"></span></a></li>
+					<li><a target='_blank' style='color:#fff;border-left: 1px solid #cfcfcf;padding-left: 25px;' href="https://www.classmatrix.org/signin" target='_blank'>Sign in &nbsp;<span class="fa fa-lock" aria-hidden="true"></span></a></li>
 				</ul>
 				</div>
 			</div>
@@ -55,10 +55,10 @@
 							
 						</ul>
 						<ul class="social-icons hideInDesktop">
-							<li><a href="#url"><span class="fa fa-facebook" aria-hidden="true"></span></a></li>
-							<li><a href="#url"><span class="fa fa-twitter" aria-hidden="true"></span></a></li>
-							<li><a href="#url"><span class="fa fa-instagram" aria-hidden="true"></span></a></li>
-							<li><a href="https://www.classmatrix.org/signin" target='_blank'><span class="fa fa-lock" aria-hidden="true"></span></a></li>
+							<li><a target='_blank' href="https://www.facebook.com/Biyanis-JEE-NEET-Private-102050525281179"><span class="fa fa-facebook" aria-hidden="true"></span></a></li>
+							<li><a target='_blank' href="#url"><span class="fa fa-linkedin" aria-hidden="true"></span></a></li>
+							<li><a target='_blank' href="https://www.instagram.com/biyanisjeeneetprivate/?hl=en"><span class="fa fa-instagram" aria-hidden="true"></span></a></li>
+							<li><a target='_blank' href="https://www.classmatrix.org/signin" target='_blank'>Sign in &nbsp;<span class="fa fa-lock" aria-hidden="true"></span></a></li>
 						</ul>
 						<div class="phone">
 						  <a href="tel:+91 8454-88-8439" style="display: block;"><span class="fa fa-headphones" aria-hidden="true"></span> +91 8454-88-8439</a>

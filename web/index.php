@@ -83,7 +83,7 @@
 		</div>
         <div class="col-lg-8">
 			<div style='height:20px'></div>
-			<p class="mb-0 big1Text">Another strong pillar of Biyani’s Education Group, we have established <b>Biyani’s JEE NEET Private</b> on the same principles that we are known for - complete transparency in education. Firmly rooted in the teaching pattern of Kota & the speed of Mumbai, we are a group of experienced directors who have teamed up for a single mission - to produce the best JEE & NEET results in the country.</p>
+			<p class="mb-0 big1Text">Another strong pillar of Biyani’s Education Group, we have established <b>Biyani’s JEE NEET Private</b> on the same principles that we are known for - complete transparency in education. Firmly rooted in the teaching pattern of Kota & the speed of Mumbai, we are a group of experienced directors who have teamed up for a single mission - to produce the best <span style="white-space: nowrap;font-weight: bold;color: #8f2929;text-decoration: underline;">JEE & NEET</span> results in the country.</p>
         </div>
       </div>
     </div>
@@ -179,20 +179,22 @@
         <h3>Our Directors</h3>
       </div>
       <div class="row">
-        <div class="col-md-4 col-sm-6 mt-0 grids5-info">
-          <a href="#url"><img src="./assets/images/Rakesh Shah.png" class="img-fluid img-curve" alt=""></a>
-          <h5>Prof. Rakesh Shah</h5>
-          <h4><a class='noMargin' href="#">Professor of Advanced Physics </a></h4>
-          <p class='noMargin'>B.E, MU</p>
-        </div>
-        <div class="col-md-4 col-sm-6 mt-sm-0 mt-5 grids5-info">
-          <a href="#url"><img src="./assets/images/Yash Biyani.png" class="img-fluid img-curve" alt=""></a>
+		<div class="col-md-4 col-sm-6 mt-sm-0 mt-5 grids5-info">
+          <a href="#url" style="border-bottom: 3px solid #8f2929;"><img src="./assets/images/Yash Biyani.png" class="img-fluid img-curve" alt="" style="margin-bottom: -1px;"></a>
           <h5>Prof. Yash  Biyani</h5>
           <h4><a class='noMargin' href="#url">Professor of Advanced Chemistry</a></h4>
           <p class='noMargin'>B.Tech, RGIPT | IITK</p>
         </div>
+		
+        <div class="col-md-4 col-sm-6 mt-0 grids5-info">
+          <a href="#url" style="border-bottom: 3px solid #8f2929;"><img src="./assets/images/Rakesh Shah.png" class="img-fluid img-curve" alt="" style="margin-bottom: -1px;"></a>
+          <h5>Prof. Rakesh Shah</h5>
+          <h4><a class='noMargin' href="#">Professor of Advanced Physics </a></h4>
+          <p class='noMargin'>B.E, MU</p>
+        </div>
+        
         <div class="col-md-4 col-sm-6 mt-md-0 mt-5 grids5-info">
-          <a href="#url"><img src="./assets/images/Piyush Singh.png" class="img-fluid img-curve" alt=""></a>
+          <a href="#url" style="border-bottom: 3px solid #8f2929;"><img src="./assets/images/Piyush Singh.png" class="img-fluid img-curve" alt="" style="margin-bottom: -1px;"></a>
           <h5>Prof. Piyush Kumar Singh</h5>
           <h4><a class='noMargin' href="#url">Professor  of Advanced Chemistry</a></h4>
           <p class='noMargin'>B.Sc, Ex-IAF</p>
@@ -240,7 +242,7 @@
   <div class="testimonials py-5">
     <div class="container py-lg-3">
       <div class="header-section white text-center">
-        <h3>Students Words</h3>
+        <h3>Student Success Stories</h3>
       </div>
       <div class="row mt-4">
         <div class="col-md-10 mx-auto">

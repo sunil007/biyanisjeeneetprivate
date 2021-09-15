@@ -83,8 +83,19 @@
     </div>
   </div>
   <div class="map">
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7531.546217919729!2d72.86353894970738!3d19.292230626690866!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b047344ea57d%3A0xc87fcdf6cb729f63!2sBiyani&#39;s%20Super%2030!5e0!3m2!1sen!2sin!4v1631628514541!5m2!1sen!2sin"
-      allowfullscreen=""></iframe>
+	<div class='row'>
+		<div class='col-lg-6'>
+			<div style='height:20px;'></div>
+			<h5 class='text-center'>Mira Road (E)</h5>
+			<div style='height:20px;'></div>
+			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15062.774119772537!2d72.85521517912927!3d19.295689291394456!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b17986c7d209%3A0xaa39879900fa17d3!2sBiyanis%20Jee%20Neet%20Private!5e0!3m2!1sen!2sin!4v1631695509072!5m2!1sen!2sin" allowfullscreen=""></iframe>
+		</div>
+		<div class='col-lg-6'>
+			<div style='height:20px;'></div>
+			<h5 class='text-center'>Kandivali (E)</h5>
+			<div style='height:20px;'></div>
+			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d60264.94325840092!2d72.83384263268161!3d19.25804414684616!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b73a4869a60b%3A0x53b020c4b601cd08!2sBiyani&#39;s%20Super%2030!5e0!3m2!1sen!2sin!4v1631696118146!5m2!1sen!2sin" allowfullscreen=""></iframe>
+		</div>
   </div>
 </section>
 <?php include 'include/footer.php'; ?>
