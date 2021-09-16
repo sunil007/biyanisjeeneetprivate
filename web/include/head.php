@@ -25,4 +25,12 @@
   <link rel="stylesheet" href="assets/css/style-starter.css?131">
   <link rel="stylesheet" href="assets/css/font-icons.css">
   <link rel="shortcut icon" href="./assets/images/fav.png">
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-Y4CXFKX4L4"></script>
+  <script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+	  gtag('config', 'G-Y4CXFKX4L4');
+  </script>
 </head>
