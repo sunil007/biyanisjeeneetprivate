@@ -12,7 +12,7 @@
 						</span>
 						<div style='height:10px'></div>
 						<span class="rightside-form">
-							<input type="number" class="form-control" name="mobile" placeholder="Enter your contact number" required>
+							<input type="number" class="form-control" name="phone" placeholder="Enter your contact number" required>
 						</span>
 						<div style='height:10px'></div>
 						<span class="rightside-form">

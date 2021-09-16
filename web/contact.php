@@ -66,7 +66,7 @@
               <input type="text" class="form-control" name="name" placeholder="Name" required="">
             </div>
             <div class="twice">
-              <input type="number" class="form-control" name="mobile" placeholder="Phone Number" required="">
+              <input type="number" class="form-control" name="phone" placeholder="Phone Number" required="">
             </div>
 			<div class="twice">
               <input type="email" class="form-control" name="email" placeholder="Email" required="">
