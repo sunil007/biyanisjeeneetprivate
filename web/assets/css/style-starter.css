@@ -9395,6 +9395,60 @@ button.owl-next {
   }
 }
 
+.folder img {
+    width: 100px;
+    margin: auto;
+}
+
+.folder h4 {
+    font-size: 1em;
+}
+
+.folder {
+    width: 200px;
+    display: inline-block;
+    text-align: center;
+    box-shadow: 0px 0px 7px 0px #888888;
+    padding: 10px;
+	margin: 10px;
+    border-radius: 10px;
+	float: left;
+}
+
+.folder:hover{
+    box-shadow: 5px 5px 12px 0px #888888;
+}
+
+
+.file img {
+    height: 60px;
+    margin: auto;
+}
+
+.file h4 {
+    font-size: 1em;
+	padding-top:10px;
+}
+
+.file {
+    width: 150px;
+    display: inline-block;
+    text-align: center;
+    box-shadow: 0px 0px 7px 0px #888888;
+    padding: 10px;
+	margin: 10px;
+    border-radius: 10px;
+	float: left;
+}
+
+.file:hover{
+    box-shadow: 5px 5px 12px 0px #888888;
+}
+
+@media (max-width: 370px){
+	.file { width: 42%; }
+	.folder { width: 42%; }
+}
 
 @media (min-width: 576px){
 	.feature-body .feature-info.mt-4{
