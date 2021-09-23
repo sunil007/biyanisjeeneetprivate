@@ -75,7 +75,7 @@
 				foreach($dirs as $dir){
 					echo "<div class='folder'>";
 						echo "<a href='digital-library.php?path=".$dir['path']."'>";
-							echo "<img src='./assets/images/folder_icon512.png' />";
+							echo "<img src='./assets/images/folder_icon_1.png' />";
 							echo "<h4>".$dir['name']."</h4>";
 						echo "</a>";
 					echo "</div>";
