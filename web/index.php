@@ -4,6 +4,11 @@
 <body>
 <?php include 'include/nav.php'; ?>
 <section class="w3l-banner-slider">
+  <!--iframe frameborder="0" height="800px" width="100%"
+	src = "https://www.youtube.com/embed/BX8uYrTUWYg?autoplay=1&loop=1" frameborder="0" allowfullscreen
+    src1="https://youtube.com/embed/BX8uYrTUWYg?autoplay=1&mute=1&controls=0&showinfo=0&autohide=0&loop=1">
+  </iframe-->
+  
   <div id="carouselExampleCaptions" class="carousel slide carousel-fade" data-ride="carousel">
     <ol class="carousel-indicators">
       <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
@@ -12,6 +17,18 @@
       <li data-target="#carouselExampleCaptions" data-slide-to="3"></li>
     </ol>
     <div class="carousel-inner">
+		<!--div class="carousel-item active">
+			<video autoplay muted loop id="myVideo" width='100%'>
+				<source src="./assets/video/banner4.mp4" type="video/mp4">
+			</video>
+        </div-->
+	
+		<!--div class="carousel-item">
+			<video autoplay muted loop id="myVideo" width='100%'>
+				<source src="./assets/video/banner3.mp4" type="video/mp4">
+			</video>
+        </div-->
+	
       <div class="carousel-item active" style="background-image: url('assets/images/banner1.jpg?2')">
         <!-- <img src="assets/images/banner.jpg?2" class="d-block w-100" alt="..."> -->
         <div class="carousel-caption container">
@@ -76,10 +93,10 @@
           <a href="#"><img src="assets/images/biyanis_symbol_lg.png" class="img-fluid" alt="content-photo" style='background: none;'></a>
         </div-->
 		<div class="col-lg-12 text-center">	
-			<h3 style='font-size:2.3em;'>About Us</h3>
+			<h3 style='font-size:2.3em;' class='bottomUnderline'>About Us</h3>
 		</div>
 		<div class="offset-lg-1 col-lg-2 text-center">
-			<img src='./assets/images/biyanis_symbol_lg.png' style='max-width: 200px;width: 100%;'>
+			<img src='./assets/images/biyanis_symbol_lg -transparent.png' style='max-width: 200px;width: 100%;'>
 		</div>
         <div class="col-lg-8">
 			<div style='height:20px'></div>
@@ -158,7 +175,7 @@
   </div>
 </section>
 
-<section class="w3l-index2">
+<!--section class="w3l-index2">
   <div class="features-main pb-5 pt-0">
     <div class="container pb-lg-3">
       <div class="row features">
@@ -170,13 +187,13 @@
 	  </div>
 	</div>
   </div>
-</section>
+</section-->
 
 <div class="w3l-services3">
   <section id="grids5-block" class="">
     <div class="container py-lg-3">
       <div class="header-section mb-5 text-center">
-        <h3>Our Directors</h3>
+        <h3 class='bottomUnderline'>Our Directors</h3>
       </div>
       <div class="row">
 		<div class="col-md-4 col-sm-6 mt-sm-0 mt-5 grids5-info">
@@ -284,7 +301,7 @@
                 </div>
                 <div class="message">
                   <span class="fa fa-quote-left" aria-hidden="true"></span>
-                  <p>Rakesh Shah sir is truly an excellent physics professor. He commands a great knowledge over the subject of physics and always works to the best of his abilities, to ensure understanding and learning of the subject for his students. One of his greatest strengths is that he ensures that his students develop a practical and conceptual understanding of topics, so that they can apply it for problems of varying difficulties. He is one of those teachers who will enjoy imparting knowledge to his students, and the amount of personal attention and love he gives to his students is unparalleled. I have simply lost count of the number of late evenings I have spent with him, honing my physics solving skills and annoying the hell out of him. He always made time out of his schedule, when I was his student. More than a teacher, he is a good man and a supporting friend and has helped me a great amount, even without realizing it himself. I wish him the absolute best of luck for his future and recommend him to all future students.</p>
+                  <p>Rakesh Shah sir is truly an excellent physics professor. He commands a great knowledge over the subject of physics and always works to the best of his abilities, to ensure understanding and learning of the subject for his students. One of his greatest strengths is that he ensures that his students develop a practical and conceptual understanding of topics, so that they can apply it for problems of varying difficulties. He is one of those teachers who will enjoy imparting knowledge to his students, and the amount of personal attention and love he gives to his students is unparalleled.</p>
                   <div class="name mt-4">
                     <h4 style="font-size: 1.5em;color: #d0b29a;">Nishit Chatnani</h4>
                     <p style="font-size: 1.75em;letter-spacing: 1px;padding: 10px 0px;font-weight: 100;">680/720</p>

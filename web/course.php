@@ -13,10 +13,10 @@
 </section>
 <!-- //breadcrum -->
 <section class="w3l-services2" id="courceDetailSection">
-  <div class="mobile-info py-5">
+  <div class="mobile-info py-5" style='background-size: cover;'>
     <div class="container py-lg-3">
       <div class="header-section mb-5 text-center">
-        <h3>Our Course</h3>
+        <h3 class='bottomUnderline'>Our Course</h3>
       </div>
       <div class="row mobile-info-inn mx-lg-0">
         <div class="col-lg-4 mobile-right">
@@ -60,7 +60,7 @@
         <div class="col-lg-4 mobile-left">
 			<div id='detailsContainer'>
 				<div class="detailsNode text-center" id="defaultDetail" style="max-width:400px;margin: auto;">
-					<img src="assets/images/biyanis_symbol_lg.png" class="img-fluid" alt=""  />
+					<img src="assets/images/biyanis_symbol_lg -transparent.png" class="img-fluid" alt=""  />
 				</div>
 				<div class='row'>
 					<div class='col-lg-12 offset-lg-0 col-sm-10 offset-sm-1'>

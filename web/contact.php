@@ -16,7 +16,7 @@
   <div class="contacts-9 py-5">
     <div class="container py-lg-3">
       <div class="header-section text-center mb-5">
-        <h2>Contact us</h2>
+        <h2 class='bottomUnderline'>Contact us</h2>
       </div>
       <div class="row top-map">
         <div class="cont-details col-md-5">

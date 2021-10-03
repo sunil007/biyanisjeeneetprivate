@@ -1,7 +1,7 @@
 <section class="w3l-stats py-5" id="stats">
   <div class="gallery-inner container py-lg-3">
     <div class="header-section mb-md-5 mb-4 text-center">
-      <h3>Awesome Response</h3>
+      <h3 class='bottomUnderline'>Awesome Response</h3>
     </div>
     <div class="row stats-con text-white">
       <div class="col-lg-3 col-sm-6">

@@ -75,8 +75,8 @@
 				foreach($dirs as $dir){
 					echo "<div class='folder'>";
 						echo "<a href='digital-library.php?path=".$dir['path']."'>";
-							echo "<img src='./assets/images/folder_icon_1.png' />";
-							echo "<h4>".$dir['name']."</h4>";
+							echo "<img src='./assets/images/folder png _PS.png' />";
+							echo "<h4 style='color: #333;padding-top: 10px;'>".$dir['name']."</h4>";
 						echo "</a>";
 					echo "</div>";
 				}
@@ -94,9 +94,9 @@
 						echo "<a target='_blank' href='./digitalLibrary/".$file['path']."'>";
 							$extension = strtolower(substr($file['path'], -3));
 							if($extension == 'pdf')
-								echo "<img src='./assets/images/pdf_icon.png' />";
+								echo "<img src='./assets/images/pdf_icon_1.png' />";
 							else if($extension == 'doc' || $extension == 'ocx')
-								echo "<img src='./assets/images/pdf_icon.png' />";
+								echo "<img src='./assets/images/pdf_icon_1.png' />";
 							else
 								echo "<img src='./assets/images/file.png' />";
 							echo "<div style='height:50px;overflow: hidden;'><h4>".$file['name']."</h4></div>";

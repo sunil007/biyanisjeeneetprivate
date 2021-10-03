@@ -7,9 +7,12 @@
 			<div style='background: #8f2929;border-bottom: 1px solid #fff;'>
 				<div class='container text-right'>
 				<ul class="social-icons hideInMobile" style='border: none;'>
-					<li><a target='_blank' style='color:#fff;' href="https://www.facebook.com/Biyanis-JEE-NEET-Private-102050525281179"><span class="fa fa-facebook" aria-hidden="true"></span></a></li>
+					<li><a target='_blank' style='color:#fff;' href="./assets/pdf/biyani super 30 brochure c2c version 18 low res.pdf"><span class="fa fa-download" aria-hidden="true"></span> Prospectus</a></li>
+					<li><a target='_blank' style='color:#fff;border-left: 1px solid #cfcfcf;padding-left: 25px;' href="https://api.whatsapp.com/send/?phone=917900040194&text=Hello+Biyani%27s%20JEE%20NEET%20Private!&app_absent=0"><span class="fa fa-whatsapp" aria-hidden="true"></span></a></li>
+					<li><a target='_blank' style='color:#fff;border-left: 1px solid #cfcfcf;padding-left: 25px;' href="https://www.facebook.com/Biyanis-JEE-NEET-Private-102050525281179"><span class="fa fa-facebook" aria-hidden="true"></span></a></li>
 					<li><a target='_blank' style='color:#fff;border-left: 1px solid #cfcfcf;padding-left: 25px;' href="#url"><span class="fa fa-linkedin" aria-hidden="true"></span></a></li>
 					<li><a target='_blank' style='color:#fff;border-left: 1px solid #cfcfcf;padding-left: 25px;' href="https://www.instagram.com/biyanisjeeneetprivate/?hl=en"><span class="fa fa-instagram" aria-hidden="true"></span></a></li>
+					<li><a target='_blank' style='color:#fff;border-left: 1px solid #cfcfcf;padding-left: 25px;' href="https://www.google.com/maps/place/Biyanis+Jee+Neet+Private,+Dev+Paradise,+C+103,+Beverly+Park,+Mira+Road,+Mumbai,+Maharashtra+401107/@19.289685,72.869063,14z/data=!4m2!3m1!1s0x3be7b17986c7d209:0xaa39879900fa17d3?hl=en&gl=IN"><span class="fa fa-map-marker" aria-hidden="true"></span></a></li>
 					<li><a target='_blank' style='color:#fff;border-left: 1px solid #cfcfcf;padding-left: 25px;' href="https://www.classmatrix.org/signin" target='_blank'>Sign in &nbsp;<span class="fa fa-lock" aria-hidden="true"></span></a></li>
 				</ul>
 				</div>
@@ -49,22 +52,27 @@
 							<li class="nav-item <?php if($curPageName == "course.php") echo 'active'; ?>">
 								<a class="nav-link" href="course.php">Course</a>
 							</li>
-							<li class="nav-item <?php if($curPageName == "contact.php") echo 'active'; ?>">
-								<a class="nav-link" href="contact.php">Contact</a>
-							</li>
+							
 							<li class="nav-item <?php if($curPageName == "digital-library.php") echo 'active'; ?>">
 								<a class="nav-link" href="digital-library.php">Digital Library</a>
 							</li>
+							<li class="nav-item <?php if($curPageName == "contact.php") echo 'active'; ?>">
+								<a class="nav-link" href="contact.php">Contact</a>
+							</li>
 							
 						</ul>
-						<ul class="social-icons hideInDesktop">
+						<ul class="social-icons hideInDesktop" style="background: #8f2929;">
+							<li><a target='_blank' href="./assets/pdf/biyani super 30 brochure c2c version 18 low res.pdf" style="color: #fff;"><span class="fa fa-download" aria-hidden="true"></span> Prospectus</a></li>
+						</ul>
+						<ul class="social-icons hideInDesktop" style='margin-top: 0px;border-top: none;'>
+							<li><a target='_blank' href="https://api.whatsapp.com/send/?phone=917900040194&text=Hello+Biyani%27s%20JEE%20NEET%20Private!&app_absent=0"><span class="fa fa-whatsapp" aria-hidden="true"></span></a></li>
 							<li><a target='_blank' href="https://www.facebook.com/Biyanis-JEE-NEET-Private-102050525281179"><span class="fa fa-facebook" aria-hidden="true"></span></a></li>
 							<li><a target='_blank' href="#url"><span class="fa fa-linkedin" aria-hidden="true"></span></a></li>
 							<li><a target='_blank' href="https://www.instagram.com/biyanisjeeneetprivate/?hl=en"><span class="fa fa-instagram" aria-hidden="true"></span></a></li>
-							<li><a target='_blank' href="https://www.classmatrix.org/signin" target='_blank'>Sign in &nbsp;<span class="fa fa-lock" aria-hidden="true"></span></a></li>
+							<li><a target='_blank' href="https://www.classmatrix.org/signin/biyanis.php" target='_blank'>Sign in &nbsp;<span class="fa fa-lock" aria-hidden="true"></span></a></li>
 						</ul>
 						<div class="phone">
-						  <a href="tel:+91 8454-88-8439" style="display: block;"><span class="fa fa-headphones" aria-hidden="true"></span> +91 8454-88-8439</a>
+						  <a href="tel:+91 8454-88-8439" style="display: block;"><span class="fa fa-phone" aria-hidden="true"></span> +91 8454-88-8439</a>
 						</div>
 					</div>
 				</nav>
