@@ -9509,5 +9509,11 @@ button.owl-next {
 	td.hideInDesktop{display:table-cell !important;}
 }
 
+@keyframes blinker {
+  50% {
+    opacity: 0;
+  }
+}
+
 
 

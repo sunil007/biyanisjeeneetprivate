@@ -14,6 +14,7 @@
 					<li><a target='_blank' style='color:#fff;border-left: 1px solid #cfcfcf;padding-left: 25px;' href="https://www.instagram.com/biyanisjeeneetprivate/?hl=en"><span class="fa fa-instagram" aria-hidden="true"></span></a></li>
 					<li><a target='_blank' style='color:#fff;border-left: 1px solid #cfcfcf;padding-left: 25px;' href="https://www.google.com/maps/place/Biyanis+Jee+Neet+Private,+Dev+Paradise,+C+103,+Beverly+Park,+Mira+Road,+Mumbai,+Maharashtra+401107/@19.289685,72.869063,14z/data=!4m2!3m1!1s0x3be7b17986c7d209:0xaa39879900fa17d3?hl=en&gl=IN"><span class="fa fa-map-marker" aria-hidden="true"></span></a></li>
 					<li><a target='_blank' style='color:#fff;border-left: 1px solid #cfcfcf;padding-left: 25px;' href="https://www.classmatrix.org/signin" target='_blank'>Sign in &nbsp;<span class="fa fa-lock" aria-hidden="true"></span></a></li>
+					<li data-toggle="modal" data-target="#enquireModal"><a style='color:#fff;border-left: 1px solid #cfcfcf;padding-left: 25px;animation: blinker 1s linear infinite;' href='#'>Enquiry & Admission	</a></li>
 				</ul>
 				</div>
 			</div>
@@ -70,6 +71,7 @@
 							<li><a target='_blank' href="#url"><span class="fa fa-linkedin" aria-hidden="true"></span></a></li>
 							<li><a target='_blank' href="https://www.instagram.com/biyanisjeeneetprivate/?hl=en"><span class="fa fa-instagram" aria-hidden="true"></span></a></li>
 							<li><a target='_blank' href="https://www.classmatrix.org/signin/biyanis.php" target='_blank'>Sign in &nbsp;<span class="fa fa-lock" aria-hidden="true"></span></a></li>
+							
 						</ul>
 						<div class="phone">
 						  <a href="tel:+91 8454-88-8439" style="display: block;"><span class="fa fa-phone" aria-hidden="true"></span> +91 8454-88-8439</a>
