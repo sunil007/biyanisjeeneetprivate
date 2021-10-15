@@ -9531,6 +9531,7 @@ button.owl-next {
 	.bannerVideo {
 		height: 100%;
 		width: auto;
+		right: -50%;
 	}
 }
 
