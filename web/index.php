@@ -11,17 +11,27 @@
   
   <div id="carouselExampleCaptions" class="carousel slide carousel-fade" data-ride="carousel">
     <ol class="carousel-indicators">
-      <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
+      <!--li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
       <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
       <li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
-      <li data-target="#carouselExampleCaptions" data-slide-to="3"></li>
+      <li data-target="#carouselExampleCaptions" data-slide-to="3"></li-->
     </ol>
     <div class="carousel-inner">
-		<!--div class="carousel-item active">
-			<video autoplay muted loop id="myVideo" width='100%'>
-				<source src="./assets/video/banner4.mp4" type="video/mp4">
+		<div class="carousel-item active">
+			<video autoplay muted loop class="bannerVideo" width='100%'>
+				<source src="./assets/video/banner8_1.mp4" type="video/mp4">
 			</video>
-        </div-->
+			<div class="carousel-caption container">
+				<h6 class="title-cover-9">&nbsp;</h6>
+				<h6 class="tag-cover-9" style='font-size: 1.5em;'> <span>Biyani's</span> <span>JEE NEET</span> <span>Privates</span></h6>
+				<h6 class="tag-cover-9">&nbsp;</h6>
+				<h3 class="title-cover-9" style='text-transform: initial;'>Get the tredition of Kota in Mumbai</h3>
+				<!--p class="para-cover-9">Once aute irure dolor in reprehenderit in voluptate velit
+					esse cillum dolore eu fugiat nulla pariatur consectetur adipiscing elit eu fugiat nulla laudantium sunt in
+					culpa qui.</p-->
+				<a data-toggle="modal" data-target="#enquireModal" href="#tag" class="btn btn-primary theme-button mt-5">ENQUIRE NOW</a>
+			</div>
+        </div>
 	
 		<!--div class="carousel-item">
 			<video autoplay muted loop id="myVideo" width='100%'>
@@ -29,59 +39,16 @@
 			</video>
         </div-->
 	
-      <div class="carousel-item active" style="background-image: url('assets/images/banner1.jpg?2')">
-        <!-- <img src="assets/images/banner.jpg?2" class="d-block w-100" alt="..."> -->
-        <div class="carousel-caption container">
-          <!--h6 class="tag-cover-9"> Washing</h6>
-          <h3 class="title-cover-9">We are the Best laundry services</h3>
-          <p class="para-cover-9">Once aute irure dolor in reprehenderit in voluptate velit
-            esse cillum dolore eu fugiat nulla pariatur consectetur adipiscing elit eu fugiat nulla laudantium sunt in
-            culpa qui.</p>
-          <a href="about.html" class="btn btn-primary theme-button mt-5">Read More</a-->
-        </div>
-      </div>
-      <div class="carousel-item" style="background-image: url('assets/images/banner3.jpg?2')">
-        <!-- <img src="assets/images/banner-3.jpg?2" class="d-block w-100" alt="..."> -->
-        <div class="carousel-caption container">
-          <!--h6 class="tag-cover-9"> Washing</h6>
-          <h3 class="title-cover-9">Dry Cleaning Service</h3>
-          <p class="para-cover-9">Excepteur sint occaecat cupidatat non proident, sunt in
-            culpa qui officia sed deserunt mollit anim id est laborum mollit anim id est nulla laudantium sunt in culpa
-            qui.</p>
-          <a href="about.html" class="btn btn-primary theme-button mt-5">Read More</a-->
-        </div>
-      </div>
-      <div class="carousel-item" style="background-image: url('assets/images/banner2.jpg?2')">
-        <!-- <img src="assets/images/banner-2.jpg?2" class="d-block w-100" alt="..."> -->
-        <div class="carousel-caption container">
-          <!--h6 class="tag-cover-9"> Washing</h6>
-          <h3 class="title-cover-9">We Care the Cloths you Wear</h3>
-          <p class="para-cover-9">Sed ut perspiciatis unde omnis iste natus error sit
-            voluptatem accus antium dolor emque laudantium sunt in culpa qui laborum eu fugiat nulla laudantium sunt in
-            culpa qui.</p>
-          <a href="about.html" class="btn btn-primary theme-button mt-5">Read More</a-->
-        </div>
-      </div>
-      <div class="carousel-item" style="background-image: url('assets/images/banner.jpg?2'); background-position: top;">
-        <!-- <img src="assets/images/banner-1.jpg?2" class="d-block w-100" alt="..."> -->
-        <div class="carousel-caption container">
-          <!--h6 class="tag-cover-9"> Washing</h6>
-          <h3 class="title-cover-9">Cleaning Excellence Guaranteed!</h3>
-          <p class="para-cover-9">Once aute irure dolor in reprehenderit in voluptate velit
-            esse cillum dolore eu fugiat nulla pariatur consectetur adipiscing elit eu fugiat nulla laudantium sunt in
-            culpa qui.</p>
-          <a href="about.html" class="btn btn-primary theme-button mt-5">Read More</a-->
-        </div>
-      </div>
+	
     </div>
-    <a class="carousel-control-prev" href="#carouselExampleCaptions" role="button" data-slide="prev">
+    <!--a class="carousel-control-prev" href="#carouselExampleCaptions" role="button" data-slide="prev">
       <span class="carousel-control-prev-icon" aria-hidden="true"></span>
       <span class="sr-only">Previous</span>
     </a>
     <a class="carousel-control-next" href="#carouselExampleCaptions" role="button" data-slide="next">
       <span class="carousel-control-next-icon" aria-hidden="true"></span>
       <span class="sr-only">Next</span>
-    </a>
+    </a-->
   </div>
 </section>
 <!-- index1 -->
@@ -197,21 +164,27 @@
       </div>
       <div class="row">
 		<div class="col-md-4 col-sm-6 mt-sm-0 mt-5 grids5-info">
-          <a href="#url" style="border-bottom: 3px solid #8f2929;"><img src="./assets/images/Yash Biyani.png" class="img-fluid img-curve" alt="" style="margin-bottom: -1px;"></a>
+		  <span class='popuponscroll'>
+			<a href="#url" style="border-bottom: 3px solid #8f2929;"><img src="./assets/images/Yash Biyani.png" class="img-fluid img-curve" alt="" style="margin-bottom: -1px;"></a>
+		  </span>
           <h5>Prof. Yash  Biyani</h5>
           <h4><a class='noMargin' href="#url">Professor of Advanced Chemistry</a></h4>
           <p class='noMargin'>B.Tech, RGIPT | IITK</p>
         </div>
 		
         <div class="col-md-4 col-sm-6 mt-0 grids5-info">
-          <a href="#url" style="border-bottom: 3px solid #8f2929;"><img src="./assets/images/Rakesh Shah.png" class="img-fluid img-curve" alt="" style="margin-bottom: -1px;"></a>
+		  <span class='popuponscroll'>
+			<a href="#url" style="border-bottom: 3px solid #8f2929;"><img src="./assets/images/Rakesh Shah.png" class="img-fluid img-curve" alt="" style="margin-bottom: -1px;"></a>
+		  </span>
           <h5>Prof. Rakesh Shah</h5>
           <h4><a class='noMargin' href="#">Professor of Advanced Physics </a></h4>
           <p class='noMargin'>B.E, MU</p>
         </div>
         
         <div class="col-md-4 col-sm-6 mt-md-0 mt-5 grids5-info">
-          <a href="#url" style="border-bottom: 3px solid #8f2929;"><img src="./assets/images/Piyush Singh.png" class="img-fluid img-curve" alt="" style="margin-bottom: -1px;"></a>
+		  <span class='popuponscroll'>
+			<a href="#url" style="border-bottom: 3px solid #8f2929;"><img src="./assets/images/Piyush Singh.png" class="img-fluid img-curve" alt="" style="margin-bottom: -1px;"></a>
+		  </span>
           <h5>Prof. Piyush Kumar Singh</h5>
           <h4><a class='noMargin' href="#url">Professor  of Advanced Chemistry</a></h4>
           <p class='noMargin'>B.Sc, Ex-IAF</p>
