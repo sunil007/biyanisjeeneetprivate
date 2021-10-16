@@ -19,13 +19,13 @@
     <div class="carousel-inner">
 		<div class="carousel-item active">
 			<video autoplay muted loop class="bannerVideo" width='100%'>
-				<source src="./assets/video/banner8_1.mp4" type="video/mp4">
+				<source src="./assets/video/banner2_1.mp4" type="video/mp4">
 			</video>
 			<div class="carousel-caption container">
 				<h6 class="title-cover-9">&nbsp;</h6>
 				<h6 class="tag-cover-9" style='font-size: 1.5em;'> <span>Biyani's</span> <span>JEE NEET</span> <span>Privates</span></h6>
 				<h6 class="tag-cover-9">&nbsp;</h6>
-				<h3 class="title-cover-9" style='text-transform: initial;'>Get the tredition of Kota in Mumbai</h3>
+				<h3 class="title-cover-9" style='text-transform: initial;'>Get the tradition of Kota in Mumbai with <span style='white-space:nowrap'>Biyani’s JEE NEET</span> Private</h3>
 				<!--p class="para-cover-9">Once aute irure dolor in reprehenderit in voluptate velit
 					esse cillum dolore eu fugiat nulla pariatur consectetur adipiscing elit eu fugiat nulla laudantium sunt in
 					culpa qui.</p-->
