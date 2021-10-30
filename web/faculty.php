@@ -41,14 +41,14 @@
 							<img src="assets/images/Yash Biyani-Mirror.png" class="img-fluid hideInDesktop" alt="" />
 						</div>
 						<div style='height:40px'></div>
-						<p style='font-weight: bold;color: #c81e4f;font-size: 1.2em;'>
+						<p style='font-weight: bold;color: #8f2929;font-size: 1.2em;'>
 							Prof. Yash Biyani
 							<span style="font-weight: normal;font-size: 0.85em;color: #27537f;font-weight: bold;white-space:nowrap;">A Man With The Plan</span>
 						</p>
 						<p class="mb-3" style='color:#333;font-weight: bold;font-size: 0.98em;margin:0px !important;'>Professor of Advanced Chemistry  | B.Tech, RGIPT | IITK</span></p>
 						<p class="mb-3">Teaching experience of more than 7 years, guiding more than 6000 students, building passion for question-solving and the drive to ask doubts - Mr. Yashvardhan Biyani is an established professor of Chemistry. After graduating from RGIPT-IITK with a B.Tech in Petroleum Engineering, he quickly dived into the education field with a single purpose - to change the academic culture present today, to bring concept-driven teaching back into the classrooms and to provide students with as many opportunities as possible to test and challenge themselves.</p>
 					</td>
-					<td width='33%' class='hideInMobile' style='border-bottom: 8px solid #c81e4f;'>
+					<td width='33%' class='hideInMobile' style='border-bottom: 8px solid #8f2929;'>
 						<img src="assets/images/Yash Biyani-Mirror.png" class="img-fluid" alt="" style='margin-bottom: -1px;'/>
 					</td>
 				</tr>
@@ -58,7 +58,7 @@
 		<div class='profProfile' id="prof2" style='display:none'>
 			<table>
 				<tr style='border-bottom: 2px solid #23517c;'>
-					<td width='33%' class='hideInMobile' style='border-bottom: 8px solid #c81e4f;'>
+					<td width='33%' class='hideInMobile' style='border-bottom: 8px solid #8f2929;'>
 						<img src="assets/images/Rakesh Shah.png" class="img-fluid" alt="" style='margin-bottom: -1px;'/>
 					</td>
 					<td style='vertical-align: bottom;'>
@@ -66,7 +66,7 @@
 							<img src="assets/images/Rakesh Shah.png" class="img-fluid hideInDesktop" alt="" />
 						</div>
 						<div style='height:40px'></div>
-						<p style='font-weight: bold;color: #c81e4f;font-size: 1.2em;'>
+						<p style='font-weight: bold;color: #8f2929;font-size: 1.2em;'>
 							Prof. Rakesh Shah 
 							<span style="font-weight: normal;font-size: 0.85em;color: #27537f;font-weight: bold;white-space:nowrap;">The Physics Toofan</span>
 						</p>
@@ -85,14 +85,14 @@
 							<img src="assets/images/Piyush Singh.png" class="img-fluid hideInDesktop" alt="" />
 						</div>
 						<div style='height:40px'></div>
-						<p style='font-weight: bold;color: #c81e4f;font-size: 1.2em;'>
+						<p style='font-weight: bold;color: #8f2929;font-size: 1.2em;'>
 							Prof. Piyush Kumar Singh 
 							<span style="font-weight: normal;font-size: 0.85em;color: #27537f;font-weight: bold;white-space:nowrap;">The Chemistry Jugaad King</span>
 						</p>
 						<p class="mb-3" style='color:#333;font-weight: bold;font-size: 0.98em;'>Professor  of Advanced Chemistry | B.Sc, Ex-IAF</span></p>
 						<p class="mb-3">With more than a decade of teaching experience to his advantage, he has been the core of education amongst the popular engineering and medical circles in town. He has pursued his B.Sc. in Physics and was the topper of his batch. Few of his work experiences include working as a Director for Eureka-llT, Founder and Director of Aromatic Classes and as a Senior Faculty & Career Coach of Chemistry at Lakshya, MT. He has been a professor to 10000+ students till date. Along with being an experienced faculty, he has served the country as an IAF Officer.</p>
 					</td>
-					<td width='33%' class='hideInMobile' style='border-bottom: 8px solid #c81e4f;'>
+					<td width='33%' class='hideInMobile' style='border-bottom: 8px solid #8f2929;'>
 						<img src="assets/images/Piyush Singh.png" class="img-fluid" alt="" style='margin-bottom: -1px;'/>
 					</td>
 				</tr>
@@ -108,14 +108,14 @@
 							<img src="assets/images/Rohit Tiwari.png" class="img-fluid hideInDesktop" alt="" />
 						</div>
 						<div style='height:40px'></div>
-						<p style='font-weight: bold;color: #c81e4f;font-size: 1.2em;'>
+						<p style='font-weight: bold;color: #8f2929;font-size: 1.2em;'>
 							Prof. Rohit Tiwari
 							<span style="font-weight: normal;font-size: 0.85em;color: #27537f;font-weight: bold;white-space:nowrap;">The Mathemagician</span>
 						</p>
 						<p class="mb-3" style='color:#333;font-weight: bold;font-size: 0.98em;'>Professor of Advanced Mathematics | B.Tech, llT Dhanbad</span></p>
 						<p class="mb-3">With a teaching experience of more than 12 years, Prof. Rohit Tiwari has guided more than 5000 students in their journey towards IITs, NITs, IIITs and prestigious medical colleges. After graduating from IIT Dhanbad with a degree in Petroleum Engineering, he started training other JEE & Medical aspirants in the field of Mathematics. He has been the Senior Faculty for Maths at Lakshya and other national-level institutes. He truly believes that if taught efficiently, Maths can be a true game-changer for any student who dreams of entering a great engineering or medical college.</p>
 					</td>
-					<td width='33%' class='hideInMobile' style='border-bottom: 8px solid #c81e4f;'>
+					<td width='33%' class='hideInMobile' style='border-bottom: 8px solid #8f2929;'>
 						<img src="assets/images/Rohit Tiwari.png" class="img-fluid" alt="" style='margin-bottom: -1px;'/>
 					</td>
 					
@@ -126,7 +126,7 @@
 		<div class='profProfile' id="prof4" style='display:none'>
 			<table>
 				<tr style='border-bottom: 2px solid #23517c;'>
-					<td width='33%' class='hideInMobile' style='border-bottom: 8px solid #c81e4f;'>
+					<td width='33%' class='hideInMobile' style='border-bottom: 8px solid #8f2929;'>
 						<img src="assets/images/Pooja Baiju.png" class="img-fluid" alt="" style='margin-bottom: -1px;'/>
 					</td>
 					<td style='vertical-align: bottom;'>
@@ -134,7 +134,7 @@
 							<img src="assets/images/Pooja Baiju.png" class="img-fluid hideInDesktop" alt="" />
 						</div>
 						<div style='height:40px'></div>
-						<p style='font-weight: bold;color: #c81e4f;font-size: 1.2em;'>
+						<p style='font-weight: bold;color: #8f2929;font-size: 1.2em;'>
 							Prof. Pooja Baiju
 							<span style="font-weight: normal;font-size: 0.85em;color: #27537f;font-weight: bold;white-space:nowrap;">The Biology Mastermind</span>
 						</p>
@@ -160,7 +160,7 @@
 		
 	}
 </script>
-<?php include 'include/statistics1.php'; ?>
+<?php include 'include/awesomeResponse.php'; ?>
 <?php include 'include/footerEnquery.php'; ?>
 <?php include 'include/footer.php'; ?>
 <?php include 'include/js.php'; ?>

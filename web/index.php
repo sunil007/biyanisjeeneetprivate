@@ -18,12 +18,12 @@
     </ol>
     <div class="carousel-inner" style='background: #ff5f5f;'>
 		<div class="carousel-item active">
-			<video autoplay muted loop class="bannerVideo" width='100%'>
+			<video autoplay muted loop class="bannerVideo" width='100%' style='top:0px;'>
 				<source src="./assets/video/banner2_1.mp4" type="video/mp4">
 			</video>
 			<div class="carousel-caption container">
 				<h6 class="title-cover-9">&nbsp;</h6>
-				<h6 class="tag-cover-9" style='font-size: 1.5em;'> <span>Biyani's</span> <span>JEE NEET</span> <span>Privates</span></h6>
+				<h6 class="tag-cover-9" style='font-size: 1.5em;'> <span>Biyani's</span> <span>JEE NEET</span> <span>Private</span></h6>
 				<h6 class="tag-cover-9">&nbsp;</h6>
 				<h3 class="title-cover-9" style='text-transform: initial;'>Get the tradition of Kota in Mumbai with <span style='white-space:nowrap'>Biyani’s JEE NEET</span> Private</h3>
 				<!--p class="para-cover-9">Once aute irure dolor in reprehenderit in voluptate velit
@@ -247,7 +247,7 @@
                   <p>I Anuj Doshi am proud to say that I was a student of Rakesh Shah sir, he specifically taught me mechanics... The way he taught was imaginitive and based on deriving and understanding the formulae. My concepts cleared quickly and I was able to ease past tough questions. For my ability to visualize questions and solve them effectively I owe Rakesh sir a lot. I will forever be grateful to him. An amazing teacher who is also a good friend.</p>
                   <div class="name mt-4">
                     <h4 style="font-size: 1.5em;color: #d0b29a;">Anuj Doshi</h4>
-                    <p style="font-size: 1.75em;letter-spacing: 1px;padding: 10px 0px;font-weight: 100;">700/720 – AIR 98</p>
+                    <p style="font-size: 2em;letter-spacing: 1px;padding: 10px 0px;font-weight: 700;">700/720 – AIR 98</p>
                   </div>
                 </div>
               </div>

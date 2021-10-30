@@ -14,14 +14,14 @@
 						<li><a target='_blank' style='color:#fff;border-left: 1px solid #cfcfcf;padding-left: 25px;' href="https://www.instagram.com/biyanisjeeneetprivate/?hl=en"><span class="fa fa-instagram" aria-hidden="true"></span></a></li>
 						<li><a target='_blank' style='color:#fff;border-left: 1px solid #cfcfcf;padding-left: 25px;' href="https://www.google.com/maps/place/Biyanis+Jee+Neet+Private,+Dev+Paradise,+C+103,+Beverly+Park,+Mira+Road,+Mumbai,+Maharashtra+401107/@19.289685,72.869063,14z/data=!4m2!3m1!1s0x3be7b17986c7d209:0xaa39879900fa17d3?hl=en&gl=IN"><span class="fa fa-map-marker" aria-hidden="true"></span></a></li>
 						<li><a target='_blank' style='color:#fff;border-left: 1px solid #cfcfcf;padding-left: 25px;' href="https://www.classmatrix.org/signin" target='_blank'>Sign in &nbsp;<span class="fa fa-lock" aria-hidden="true"></span></a></li>
-						<li data-toggle="modal" data-target="#enquireModal"><a style='color:#fff;border-left: 1px solid #cfcfcf;padding-left: 25px;animation: blinker 1s linear infinite;' href='#'>Enquiry & Admission	</a></li>
+						<li data-toggle="modal" data-target="#enquireModal"><a style='font-weight: bold;color:#fff;border-left: 1px solid #cfcfcf;padding-left: 25px;animation: blinker 1s linear infinite;' href='#'>Enquiry & Admission	</a></li>
 					</ul>
 					<div class="social-icons hideInDesktop noMargin" style="border: none;padding: 4px 0px;">
 						<span><a href="tel:+91 8454-88-8439" style='color:#fff;border-right: 1px solid #cfcfcf;padding:0px 15px;'><span class="fa fa-phone" aria-hidden="true"></span></a></span>
 						<span><a target='_blank' style='color:#fff;border-right: 1px solid #cfcfcf;padding:0px 15px;' href="https://api.whatsapp.com/send/?phone=917900040194&text=Hello+Biyani%27s%20JEE%20NEET%20Private!&app_absent=0"><span class="fa fa-whatsapp" aria-hidden="true"></span></a></span>
 						<span><a target='_blank' style='color:#fff;padding:0px 15px;' href="./assets/pdf/biyani super 30 brochure c2c version 18 low res.pdf"><span class="fa fa-download" aria-hidden="true"></span></a></span>
 						
-						<span data-toggle="modal" data-target="#enquireModal"><a style='color:#fff;border-left: 1px solid #cfcfcf;padding-left: 15px;animation: blinker 1s linear infinite;' href='#'>Enquiry & Admission	</a></span>
+						<span data-toggle="modal" data-target="#enquireModal"><a style='font-weight: bold;color:#fff;border-left: 1px solid #cfcfcf;padding-left: 15px;animation: blinker 1s linear infinite;' href='#'>Enquiry & Admission	</a></span>
 					</div>
 				</div>
 			</div>
@@ -58,7 +58,7 @@
 								<a class="nav-link" href="faculty.php">Faculty</a>
 							</li>
 							<li class="nav-item <?php if($curPageName == "course.php") echo 'active'; ?>">
-								<a class="nav-link" href="course.php">Course</a>
+								<a class="nav-link" href="course.php">Courses</a>
 							</li>
 							
 							<li class="nav-item <?php if($curPageName == "digital-library.php") echo 'active'; ?>">

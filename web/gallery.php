@@ -55,9 +55,10 @@
 		<div class="cont-details col-md-12">
 			<div style="display: flex;flex-direction: row;flex-wrap: wrap;justify-content: center;">
 			<?php
+				$thumbnails = array_reverse($thumbnails);
 				foreach($thumbnails as $file){
-					echo "<div class='file' onclick='showImage(\"./assets/gallery/images/".$file."\")' style='cursor: pointer;width:210px;height:210px;background: url(./assets/gallery/thumbnails/".$file.");background-position: center;background-size: cover;'>";
-						
+					echo "<div class='file blurOnHover' onclick='showImage(\"./assets/gallery/images/".$file."\")' style='padding: 0px;cursor: pointer;width:210px;height:210px;background: url(\"./assets/gallery/thumbnails/".$file."\");background-position: center;background-size: cover;'>";
+						echo '<div class="showOnHover" style="width:210px;height:210px;vertical-align: middle;display: table-cell;">'.substr($file, 4, -4).'</div>';
 					echo "</div>";
 				}
 			?>
@@ -88,6 +89,21 @@
 		$("#imageModal").modal('show');	
 	}
 </script>
+<style>
+	.showOnHover{
+		visibility: hidden;
+	}
+	.showOnHover:hover, .blurOnHover:hover .showOnHover{
+		visibility: visible;
+		background-color: #8f2929;
+		opacity: 0.9;
+		color: #fff;
+		font-weight: bold;
+		border-radius: 10px;
+		padding:10px;
+	}
+	.blurOnHover:hover {}
+</style>
 <?php include 'include/footer.php'; ?>
 <?php include 'include/js.php'; ?>
 <?php include 'include/enquireModal.php'; ?>
