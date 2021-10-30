@@ -53,7 +53,7 @@
 	<div class="features py-5" id="services">
 		<div class="container py-lg-3">
 			<div class="header-section text-center mb-4">
-				<h3 class='bottomUnderline'>We Believe in</h3>
+				<h3 class='bottomUnderline'>Our Core Features</h3>
 			</div>
 			<div class="row">
 				<div class="col-lg-6 col-md-12">

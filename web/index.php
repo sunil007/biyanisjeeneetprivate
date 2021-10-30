@@ -16,7 +16,7 @@
       <li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
       <li data-target="#carouselExampleCaptions" data-slide-to="3"></li-->
     </ol>
-    <div class="carousel-inner">
+    <div class="carousel-inner" style='background: #ff5f5f;'>
 		<div class="carousel-item active">
 			<video autoplay muted loop class="bannerVideo" width='100%'>
 				<source src="./assets/video/banner2_1.mp4" type="video/mp4">

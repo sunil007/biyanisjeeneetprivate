@@ -20,7 +20,7 @@
         </div>
         <div class="row">
 			<div class="col-md-12">
-				<h3 class="mb-4 text-center">Learn from the Best Teachers in town</h3>
+				<h3 class="mb-4 text-center">Learn from the <span style='color: #8f2929;font-weight: bold;'>Best Teachers in town</span></h3>
 				<div style='height:40px'></div>
 			</div>
 		</div>
@@ -29,8 +29,8 @@
 				<span onclick='showProfs("#prof1", this)' style='cursor:pointer;' class='theme-button btn-outline-primary active'>Prof. Yash Biyani</span>
 				<span onclick='showProfs("#prof2", this)' style='cursor:pointer;' class='theme-button btn-outline-primary'>Prof. Rakesh Shah</span>
 				<span onclick='showProfs("#prof3", this)' style='cursor:pointer;' class='theme-button btn-outline-primary'>Prof. Piyush Singh</span>
-				<span onclick='showProfs("#prof4", this)' style='cursor:pointer;' class='theme-button btn-outline-primary'>Prof. Pooja Baiju</span>
 				<span onclick='showProfs("#prof5", this)' style='cursor:pointer;' class='theme-button btn-outline-primary'>Prof. Rohit Tiwari</span>
+				<span onclick='showProfs("#prof4", this)' style='cursor:pointer;' class='theme-button btn-outline-primary'>Prof. Pooja Baiju</span>
 			</div>
 		</div>
 		<div class='profProfile' id="prof1">
@@ -99,29 +99,6 @@
 			</table>
 		</div>
 		
-		<div class='profProfile' id="prof4" style='display:none'>
-			<table>
-				<tr style='border-bottom: 2px solid #23517c;'>
-					<td width='33%' class='hideInMobile' style='border-bottom: 8px solid #c81e4f;'>
-						<img src="assets/images/Pooja Baiju.png" class="img-fluid" alt="" style='margin-bottom: -1px;'/>
-					</td>
-					<td style='vertical-align: bottom;'>
-						<div style='max-width: 400px;display: block;margin: auto;'>
-							<img src="assets/images/Pooja Baiju.png" class="img-fluid hideInDesktop" alt="" />
-						</div>
-						<div style='height:40px'></div>
-						<p style='font-weight: bold;color: #c81e4f;font-size: 1.2em;'>
-							Prof. Pooja Baiju
-							<span style="font-weight: normal;font-size: 0.85em;color: #27537f;font-weight: bold;white-space:nowrap;">The Biology Mastermind</span>
-						</p>
-						<p class="mb-3" style='color:#333;font-weight: bold;font-size: 0.98em;'>Professor of Blology | M.Tech ln Blotechnology, M.Phil in Plant Tlssue Culture</span></p>
-						<p class="mb-3">Mrs. Pooja Baiju has been a professor of Biology for the last 15 years. She has taught at esteemed institutes in India. After pursuing her M.Tech in Biotechnology  from Dr. D.Y. Patil Institute of Biotechnology, she pursued M.Phil in a topic of her expertise - Plant Tissue Culture. She has been a passionate guide, mentor and a teacher to several medical aspirants over the course of last ten years.</p>
-					</td>
-					
-				</tr>
-			</table>
-		</div>
-		
 		<div class='profProfile' id="prof5" style='display:none'>
 			<table>
 				<tr style='border-bottom: 2px solid #23517c;'>
@@ -145,6 +122,31 @@
 				</tr>
 			</table>
 		</div>
+		
+		<div class='profProfile' id="prof4" style='display:none'>
+			<table>
+				<tr style='border-bottom: 2px solid #23517c;'>
+					<td width='33%' class='hideInMobile' style='border-bottom: 8px solid #c81e4f;'>
+						<img src="assets/images/Pooja Baiju.png" class="img-fluid" alt="" style='margin-bottom: -1px;'/>
+					</td>
+					<td style='vertical-align: bottom;'>
+						<div style='max-width: 400px;display: block;margin: auto;'>
+							<img src="assets/images/Pooja Baiju.png" class="img-fluid hideInDesktop" alt="" />
+						</div>
+						<div style='height:40px'></div>
+						<p style='font-weight: bold;color: #c81e4f;font-size: 1.2em;'>
+							Prof. Pooja Baiju
+							<span style="font-weight: normal;font-size: 0.85em;color: #27537f;font-weight: bold;white-space:nowrap;">The Biology Mastermind</span>
+						</p>
+						<p class="mb-3" style='color:#333;font-weight: bold;font-size: 0.98em;'>Professor of Blology | M.Tech ln Blotechnology, M.Phil in Plant Tlssue Culture</span></p>
+						<p class="mb-3">Mrs. Pooja Baiju has been a professor of Biology for the last 15 years. She has taught at esteemed institutes in India. After pursuing her M.Tech in Biotechnology  from Dr. D.Y. Patil Institute of Biotechnology, she pursued M.Phil in a topic of her expertise - Plant Tissue Culture. She has been a passionate guide, mentor and a teacher to several medical aspirants over the course of last ten years.</p>
+					</td>
+					
+				</tr>
+			</table>
+		</div>
+		
+		
 		
 		<!--table>
 			<tr style='border-bottom: 2px solid #23517c;'>
@@ -185,7 +187,7 @@
 		
 	}
 </script>
-<?php include 'include/awesomeResponse.php'; ?>
+<?php include 'include/statistics1.php'; ?>
 <?php include 'include/footerEnquery.php'; ?>
 <?php include 'include/footer.php'; ?>
 <?php include 'include/js.php'; ?>

@@ -64,8 +64,11 @@
 							<li class="nav-item <?php if($curPageName == "digital-library.php") echo 'active'; ?>">
 								<a class="nav-link" href="digital-library.php">Digital Library</a>
 							</li>
+							<li class="nav-item <?php if($curPageName == "gallery.php") echo 'active'; ?>">
+								<a class="nav-link" href="gallery.php">Gallery</a>
+							</li>
 							<li class="nav-item <?php if($curPageName == "contact.php") echo 'active'; ?>">
-								<a class="nav-link" href="contact.php">Contact</a>
+								<a class="nav-link" href="contact.php"><i class='fa fa-map-marker' style='font-size: 1.35em;'></i></a>
 							</li>
 							
 						</ul>
