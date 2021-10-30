@@ -165,7 +165,7 @@
       <div class="row">
 		<div class="col-md-4 col-sm-6 mt-sm-0 mt-5 grids5-info">
 		  <span class='popuponscroll'>
-			<a href="#url" style="border-bottom: 3px solid #8f2929;"><img src="./assets/images/Yash Biyani.png" class="img-fluid img-curve" alt="" style="margin-bottom: -1px;"></a>
+			<a href="#url" style="border-bottom: 3px solid #8f2929;"><img src="./assets/images/Yash Biyani-small.png" class="img-fluid img-curve" alt="" style="margin-bottom: -1px;"></a>
 		  </span>
           <h5>Prof. Yash  Biyani</h5>
           <h4><a class='noMargin' href="#url">Professor of Advanced Chemistry</a></h4>
@@ -174,7 +174,7 @@
 		
         <div class="col-md-4 col-sm-6 mt-0 grids5-info">
 		  <span class='popuponscroll'>
-			<a href="#url" style="border-bottom: 3px solid #8f2929;"><img src="./assets/images/Rakesh Shah.png" class="img-fluid img-curve" alt="" style="margin-bottom: -1px;"></a>
+			<a href="#url" style="border-bottom: 3px solid #8f2929;"><img src="./assets/images/Rakesh Shah-small.png" class="img-fluid img-curve" alt="" style="margin-bottom: -1px;"></a>
 		  </span>
           <h5>Prof. Rakesh Shah</h5>
           <h4><a class='noMargin' href="#">Professor of Advanced Physics </a></h4>
@@ -183,7 +183,7 @@
         
         <div class="col-md-4 col-sm-6 mt-md-0 mt-5 grids5-info">
 		  <span class='popuponscroll'>
-			<a href="#url" style="border-bottom: 3px solid #8f2929;"><img src="./assets/images/Piyush Singh.png" class="img-fluid img-curve" alt="" style="margin-bottom: -1px;"></a>
+			<a href="#url" style="border-bottom: 3px solid #8f2929;"><img src="./assets/images/Piyush Singh-small.png" class="img-fluid img-curve" alt="" style="margin-bottom: -1px;"></a>
 		  </span>
           <h5>Prof. Piyush Kumar Singh</h5>
           <h4><a class='noMargin' href="#url">Professor  of Advanced Chemistry</a></h4>
