@@ -63,7 +63,7 @@
 			<h3 style='font-size:2.3em;' class='bottomUnderline'>About Us</h3>
 		</div>
 		<div class="offset-lg-1 col-lg-2 text-center">
-			<img src='./assets/images/biyanis_symbol_lg -transparent.png' style='max-width: 200px;width: 100%;'>
+			<img src='./assets/images/biyanis_symbol_lg -transparent-small.png' style='max-width: 200px;width: 100%;'>
 		</div>
         <div class="col-lg-8">
 			<div style='height:20px'></div>
