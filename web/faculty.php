@@ -146,33 +146,6 @@
 			</table>
 		</div>
 		
-		
-		
-		<!--table>
-			<tr style='border-bottom: 2px solid #23517c;'>
-				<td width='33%' class='hideInMobile' style='border-bottom: 8px solid #c81e4f;'>
-					<img src="assets/images/Ninad Patade.png" class="img-fluid" alt="" style='margin-bottom: -1px;'/>
-				</td>
-				<td style='vertical-align: bottom;'>
-					<div style='max-width: 400px;display: block;margin: auto;'>
-						<img src="assets/images/Ninad Patade.png" class="img-fluid hideInDesktop" alt="" />
-					</div>
-					<div style='height:40px'></div>
-					<p style='font-weight: bold;color: #c81e4f;font-size: 1.2em;'>
-						Prof. Ninad Patade
-						<span style="font-weight: normal;font-size: 0.85em;color: #27537f;">Professor of Biology </span>
-					</p>
-					<p class="mb-3" style='color:#333;font-weight: bold;font-size: 0.98em;'>M.Sc in Biotechnology</span></p>
-					<p class="mb-3">With more than 8 years of teaching experience as a professor of Biology, Mr. Ninad Patade is a sound lecturer and an expert in his field. After graduating with his Masters in Biotechnology from Mumbai University, he pursued his research on Plant Tissue Culture. His work experience includes teaching at reputed institutes of Mumbai like Vidyasagar Classes, PACE IIT & Medical, etc. He has trained more than 1500 medical aspirants during the course of his teaching career.</p>
-				</td>
-				
-			</tr>
-		</table-->
-		
-		
-		
-		
-		
 		<div style='height:40px'></div>
 		
 		
