@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://www.biyanisjeeneetprivate.com</loc>
+    <priority>1.0</priority>
+    <image:loc>https://biyanisjeeneetprivate.com/assets/images/logo.jpg</image:loc>
+	<image:title>Biyanis JEE NEET PRIVATE</image:title>
+	<image:caption>Biyanis JEE NEET PRIVATE : Logo </image:caption>
+  </url>
+  <url>
+    <loc>https://www.biyanisjeeneetprivate.com/index.php</loc>
+    <priority>1.0</priority>
+  </url>
+ 
+  <url>
+    <loc>https://www.biyanisjeeneetprivate.com/overview.php</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.biyanisjeeneetprivate.com/faculty.php</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.biyanisjeeneetprivate.com/course.php</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.biyanisjeeneetprivate.com/digital-library.php</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.biyanisjeeneetprivate.com/gallery.php</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.biyanisjeeneetprivate.com/contact.php</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.biyanisjeeneetprivate.com/course-jee-advanced.php</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.biyanisjeeneetprivate.com/course-neet.php</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.biyanisjeeneetprivate.com/course-jee-main.php</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.biyanisjeeneetprivate.com/course-foundation-courses.php</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.biyanisjeeneetprivate.com/course-prayas-aits.php</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.biyanisjeeneetprivate.com/course-kvpy-olymoiads.php</loc>
+    <priority>1.0</priority>
+  </url>
+</urlset>
