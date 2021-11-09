@@ -72,7 +72,7 @@
 			  <div class="row mobile-right-grids mb-lg-5 mb-4 ripplecontainer"  data-type='detailTrigger' data-href='#foundationDetail'>
 				<div class="col-md-2 col-lg-3 pr-0 col-3 mobile-right-icon">
 				  <div class="mobile-icon ripple">
-					<img src="assets/images/banner.jpg" class="img-fluid" alt="" />
+					<img src="assets/images/service3.jpg" class="img-fluid" alt="" />
 				  </div>
 				</div>
 				<div class="col-md-10 col-lg-9 mobile-right-info col-9">
@@ -85,7 +85,7 @@
 			  <div class="row mobile-right-grids mb-lg-5 mb-4 ripplecontainer"  data-type='detailTrigger' data-href='#prayasDetail'>
 				<div class="col-md-2 col-lg-3 pr-0 col-3 mobile-right-icon">
 				  <div class="mobile-icon ripple">
-					<img src="assets/images/banner1.jpg" class="img-fluid" alt="" />
+					<img src="assets/images/banner5.jpg" class="img-fluid" alt="" />
 				  </div>
 				</div>
 				<div class="col-md-10 col-lg-9 mobile-right-info col-9">
@@ -98,7 +98,7 @@
 			  <div class="row mobile-right-grids ripplecontainer"  data-type='detailTrigger' data-href='#kvpyDetail'>
 				<div class="col-md-2 col-lg-3 pr-0 col-3 mobile-right-icon">
 				  <div class="mobile-icon ripple">
-					<img src="assets/images/banner2.jpg" class="img-fluid" alt="" />
+					<img src="assets/images/banner.jpg" class="img-fluid" alt="" />
 				  </div>
 				</div>
 				<div class="col-md-10 col-lg-9 mobile-right-info col-9">
