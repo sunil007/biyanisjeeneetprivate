@@ -125,7 +125,7 @@
 
 			<p>&nbsp;</p>
 
-			<h2>Important Dates</h2>
+			<h2 style='color: #8f2929;'>Important Dates</h2>
 
 			<p>&nbsp;</p>
 
@@ -141,7 +141,7 @@
 
 			<p>&nbsp;</p>
 
-			<h2>Eligibility Criteria</h2>
+			<h2 style='color: #8f2929;'>Eligibility Criteria</h2>
 			<p>&nbsp;</p>
 			<ul>
 				<li>Students of Class X studying in recognized schools are eligible to appear for the Stage-I examination, conducted by the States/UTs, in which the schools are located. There is no domicile restriction.</li>
@@ -150,7 +150,7 @@
 
 			<p>&nbsp;</p>
 
-			<h2>Exam Details</h2>
+			<h2 style='color: #8f2929;'>Exam Details</h2>
 			<p>&nbsp;</p>
 			<p>The written examination for NTSE consists of two stages as Stage-I &amp; Stage-II. Stage - I examination will be at the States/UTs level and Stage - II examination at the National level.</p>
 
@@ -283,7 +283,7 @@
 
 			<p>&nbsp;</p>
 
-			<h2>Important Dates</h2>
+			<h2 style='color: #8f2929;'>Important Dates</h2>
 			<p>&nbsp;</p>
 			<table class='table'>
 				<tbody>
@@ -304,13 +304,13 @@
 
 			<p>&nbsp;</p>
 
-			<h2>Eligibility Criteria</h2>
+			<h2 style='color: #8f2929;'>Eligibility Criteria</h2>
 			<p>&nbsp;</p>
 			<p>Any student of recognized school studying in Class IX in Govt./ Govt. Aided/ Public/ KV/ Navodaya Vidyalaya/ NDMC and must have secured 65% marks in class VIII.</p>
 
 			<p>&nbsp;</p>
 
-			<h2>Exam Details</h2>
+			<h2 style='color: #8f2929;'>Exam Details</h2>
 			<p>&nbsp;</p>
 			<table class='table'>
 				<tbody>
@@ -340,7 +340,7 @@
 
 			<p>&nbsp;</p>
 
-			<h2>Scholarships</h2>
+			<h2 style='color: #8f2929;'>Scholarships</h2>
 			<p>&nbsp;</p>
 			<p>There are 150 scholarships for JSTSE per year.</p>
 
@@ -361,7 +361,7 @@
 
 			<p>&nbsp;</p>
 
-			<h2>Important Dates</h2>
+			<h2 style='color: #8f2929;'>Important Dates</h2>
 			<p>&nbsp;</p>
 			<ul>
 				<li>Exam Date : Generally in November.</li>
@@ -369,7 +369,7 @@
 
 			<p>&nbsp;</p>
 
-			<h2>Eligibility Criteria</h2>
+			<h2 style='color: #8f2929;'>Eligibility Criteria</h2>
 			<p>&nbsp;</p>
 			<ul>
 				<li>Must have scored 55% and above marks in Class VII examination and has been promoted to class VIII. There is 5% relaxation in marks for reserved category</li>
@@ -380,7 +380,7 @@
 
 			<p>&nbsp;</p>
 
-			<h2>Exam Details</h2>
+			<h2 style='color: #8f2929;'>Exam Details</h2>
 			<p>&nbsp;</p>
 			<ul>
 				<li>The examination consists of two parts, namely<br />
@@ -410,7 +410,7 @@
 		
 	}
 </script>
-<?php include 'include/awesomeResponse.php'; ?>
+<?php include 'include/statistics1.php'; ?>
 <?php include 'include/footerEnquery.php'; ?>
 <?php include 'include/footer.php'; ?>
 <?php include 'include/js.php'; ?>

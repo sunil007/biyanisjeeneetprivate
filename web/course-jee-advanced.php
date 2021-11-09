@@ -24,6 +24,7 @@
 				<span onclick='showProfs("#tabsub1", this)' style='cursor:pointer;' class='theme-button btn-outline-primary active'>OVERVIEW</span>
 				<span onclick='showProfs("#tabsub2", this)' style='cursor:pointer;' class='theme-button btn-outline-primary'>EXAM DATES</span>
 				<span onclick='showProfs("#tabsub3", this)' style='cursor:pointer;' class='theme-button btn-outline-primary'>ELIGIBILITY CRITERIA</span>
+				<span onclick='showProfs("#tabsub4", this)' style='cursor:pointer;' class='theme-button btn-outline-primary'>EXAM DETAILS</span>
 			</div>
 		</div>
 		<hr>
@@ -86,6 +87,185 @@
 				</li>
 			</ul>
 		</div>
+		
+		<div class='profProfile' id="tabsub4" style='display:none;'>
+			<ul>
+				<li>JEE (Advanced) : PAPER - 1</li>
+				<li>Total Time: 3 Hrs. (9:00 &ndash; 12:00)</li>
+				<li>Total Questions: (4+8+6) 18 x 3 = 54</li>
+				<li>Max. Marks: (12+32+18) 62&nbsp;x 3 = 186</li>
+			</ul>
+
+			<p>Questions and Marks distribution for each Subject: (Physics, Chemistry, Mathematics)</p>
+			<p style='height:20px;'>&nbsp;</p>
+			<table class='table'>
+				<tbody>
+					<tr>
+						<th  rowspan="2">Section</th>
+						<th  rowspan="2">Question<br />
+						Type</th>
+						<th  rowspan="2">Question Number</th>
+						<th  rowspan="2">Number of Questions</th>
+						<th  rowspan="2">Max. Marks</th>
+						<th colspan="8" rowspan="1"><strong>Marking Scheme</th>
+					</tr>
+					<tr>
+						<th>Full Marks</th>
+						<th>Partial Marks</th>
+						<th>Partial Marks</th>
+						<th>Partial Marks</th>
+						<th>Zero Marks</th>
+						<th>Negative</strong><br />
+						<strong>Marks</th>
+					</tr>
+					<tr>
+						<td>1</td>
+						<td><strong>ONE CORRECT OPTION</strong></td>
+						<td>01 &ndash; 4</td>
+						<td>4</td>
+						<td>4 &times; 3 = 12</td>
+						<td>+3</td>
+						<td>-</td>
+						<td>-</td>
+						<td>-</td>
+						<td>0</td>
+						<td>-1</td>
+					</tr>
+					<tr>
+						<td>2</td>
+						<td><strong>ONE OR MORE THAN ONE CORRECT OPTION (S)</strong></td>
+						<td>05 &ndash; 12</td>
+						<td>8</td>
+						<td>8 &times; 4 = 32</td>
+						<td>+4</td>
+						<td>+3</td>
+						<td>+2</td>
+						<td>+1</td>
+						<td>0</td>
+						<td>-1</td>
+					</tr>
+					<tr>
+						<td>3</td>
+						<td><strong>NUMERICAL VALUE BASED</strong></td>
+						<td>13 &ndash; 18</td>
+						<td>6</td>
+						<td>3 &times; 6 = 18</td>
+						<td>+3</td>
+						<td>-</td>
+						<td>-</td>
+						<td>-</td>
+						<td>0</td>
+						<td>-</td>
+					</tr>
+					<tr>
+						<td>&nbsp;</td>
+						<td>&nbsp;</td>
+						<td><strong>Total</strong></td>
+						<td><strong>18</strong></td>
+						<td><strong>62</strong></td>
+						<td>&nbsp;</td>
+						<td>&nbsp;</td>
+						<td>&nbsp;</td>
+						<td>&nbsp;</td>
+						<td>&nbsp;</td>
+						<td>&nbsp;</td>
+					</tr>
+				</tbody>
+			</table>
+
+			<ul>
+				<li>JEE (Advanced) : PAPER - 2</li>
+				<li>Total Time: 3 Hrs. (14:00 &ndash; 17:00)</li>
+				<li>Total Questions: (8+6+4) 18 x 3 = 54</li>
+				<li>Max. Marks: (32+18+12) 62&nbsp;x 3 = 186</li>
+			</ul>
+
+			<p>Questions and Marks distribution for each Subject: (Physics, Chemistry, Maths)</p>
+			<p style='height:20px;'>&nbsp;</p>
+			<table class='table'>
+				<tbody>
+					<tr>
+						<th  rowspan="2">Section</th>
+						<th  rowspan="2">Question<br />
+						Type</th>
+						<th  rowspan="2">Question Number</th>
+						<th  rowspan="2">Number of Questions</th>
+						<th  rowspan="2">Max. Marks</th>
+						<th colspan="8" rowspan="1"><strong>Marking Scheme</th>
+					</tr>
+					<tr>
+						<th>Full Marks</th>
+						<th>Partial Marks</th>
+						<th>Partial Marks</th>
+						<th>Partial Marks</th>
+						<th>Zero Marks</th>
+						<th>Negative</strong><br />
+						<strong>Marks</th>
+					</tr>
+					<tr>
+						<td>1</td>
+						<td><strong>ONE OR MORE THAN ONE CORRECT OPTION (S)</strong></td>
+						<td>01 &ndash; 8</td>
+						<td>8</td>
+						<td>8 &times; 4 = 32</td>
+						<td>+4</td>
+						<td>+3</td>
+						<td>+2</td>
+						<td>+1</td>
+						<td>0</td>
+						<td>-1</td>
+					</tr>
+					<tr>
+						<td>2</td>
+						<td><strong>NUMERICAL VALUE BASED</strong></td>
+						<td>09 &ndash; 14</td>
+						<td>6</td>
+						<td>6 &times; 3 = 18</td>
+						<td>+3</td>
+						<td>0</td>
+						<td>0</td>
+						<td>0</td>
+						<td>0</td>
+						<td>0</td>
+					</tr>
+					<tr>
+						<td>3</td>
+						<td><strong>MATCHING LISTS TYPE</strong></td>
+						<td>15 &ndash; 18</td>
+						<td>4</td>
+						<td>4 &times; 3 = 12</td>
+						<td>+3</td>
+						<td>-</td>
+						<td>-</td>
+						<td>-</td>
+						<td>0</td>
+						<td>-1</td>
+					</tr>
+					<tr>
+						<td>&nbsp;</td>
+						<td>&nbsp;</td>
+						<td><strong>Total</strong></td>
+						<td><strong>18</strong></td>
+						<td><strong>62</strong></td>
+						<td>&nbsp;</td>
+						<td>&nbsp;</td>
+						<td>&nbsp;</td>
+						<td>&nbsp;</td>
+						<td>&nbsp;</td>
+						<td>&nbsp;</td>
+					</tr>
+				</tbody>
+			</table>
+
+			<p>More Information</p>
+
+			<p>For more details, please refer:</p>
+
+			<ul>
+				<li>Log on to website:&nbsp;<a href="http://www.jeeadv.ac.in/" target="_blank">www.jeeadv.ac.in</a></li>
+			</ul>
+
+		</div>
 		<div style='height:40px'></div>
 		
 		
@@ -100,7 +280,7 @@
 		
 	}
 </script>
-<?php include 'include/awesomeResponse.php'; ?>
+<?php include 'include/statistics1.php'; ?>
 <?php include 'include/footerEnquery.php'; ?>
 <?php include 'include/footer.php'; ?>
 <?php include 'include/js.php'; ?>

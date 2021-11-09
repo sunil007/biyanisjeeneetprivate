@@ -292,7 +292,7 @@
 		
 	}
 </script>
-<?php include 'include/awesomeResponse.php'; ?>
+<?php include 'include/statistics1.php'; ?>
 <?php include 'include/footerEnquery.php'; ?>
 <?php include 'include/footer.php'; ?>
 <?php include 'include/js.php'; ?>

@@ -37,33 +37,33 @@
 		
 		<div class='profProfile' id="tabsub2" style='display:none'>
 			<p style='height:10px;'>&nbsp;</p>
-			<ol>
-				<li><strong>Exam Like Tests</strong>
+			<ol style='padding-left: 10px;'>
+				<li style='list-style: none;'><strong><i class='fa fa-edit'></i> &nbsp;Exam Like Tests</strong>
 				<ul>
 					<li>Students will be trained for online exams with the same software interface that will be used for their actual entrance exams. These simulated tests will familiarise the student with the testing environment and improve their efficiency.<p style='height:10px;'>&nbsp;</p></li>
 				</ul>
 				</li>
-				<li><strong>Real-time Results</strong>
+				<li style='list-style: none;'><strong><i class='fa fa-cogs'></i> &nbsp;Real-time Results</strong>
 				<ul>
 					<li>Students will be able to procure their results instantly after finishing their test. Test results of the same will be recorded with us in order to keep track of the academic progress of every student.<p style='height:10px;'>&nbsp;</p></li>
 				</ul>
 				</li>
-				<li><strong>Immediate PARA(Performance And Result Analysis)</strong>
+				<li style='list-style: none;'><strong><i class='fa fa-bar-chart-o'></i> &nbsp;Immediate PARA(Performance And Result Analysis)</strong>
 				<ul>
 					<li>An extensive report detailing the performance analysis of the student on various important parameters will be generated immediately after the student finishes their Major Test.<p style='height:10px;'>&nbsp;</p></li>
 				</ul>
 				</li>
-				<li><strong>Challenging Questions</strong>
+				<li style='list-style: none;'><strong><i class='fa fa-list-ol'></i> &nbsp;Challenging Questions</strong>
 				<ul>
 					<li>Al-based online testing content will be incorporated to continuously challenge the student and increase their skills in answering questions that require higher-order thinking skills.<p style='height:10px;'>&nbsp;</p></li>
 				</ul>
 				</li>
-				<li><strong>All India Level Ranking</strong>
+				<li style='list-style: none;'><strong><i class='fa fa-trophy'></i> &nbsp;All India Level Ranking</strong>
 				<ul>
 					<li>In order to gauge where the student stands amongst thousands of other aspirants, AITS (All India Test Series) will be provided and the student will get a realistic and comparative assessment of their performance.<p style='height:10px;'>&nbsp;</p></li>
 				</ul>
 				</li>
-				<li><strong>Made by Experts</strong>
+				<li style='list-style: none;'><strong><i class='fa fa-group'></i> &nbsp;Made by Experts</strong>
 				<ul>
 					<li>The testing content is prepared by subject experts from the entrance exam perspective. For Major Tests, highly concept based, complex questions are selected from past papers as well as made specifically by alumni of IITs and students from reputed medical colleges.<p style='height:10px;'>&nbsp;</p></li>
 				</ul>
@@ -89,7 +89,7 @@
 		
 	}
 </script>
-<?php include 'include/awesomeResponse.php'; ?>
+<?php include 'include/statistics1.php'; ?>
 <?php include 'include/footerEnquery.php'; ?>
 <?php include 'include/footer.php'; ?>
 <?php include 'include/js.php'; ?>

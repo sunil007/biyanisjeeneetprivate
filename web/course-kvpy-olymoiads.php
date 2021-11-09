@@ -16,7 +16,7 @@
     <div class="container py-lg-3">
         <div class="header-section text-center mb-lg-5 mb-4">
 			<div style='height:40px'></div>
-            <h2 class='bottomUnderline'>KVPY & OLYMPIAD</h2>
+            <h2 class='bottomUnderline'>KVPY & OLYMPIADS</h2>
         </div>
  
 		<div class='row'>
@@ -50,7 +50,7 @@
 			<p>&nbsp;</p>
 
 
-			<h2>Important Dates</h2>
+			<h2 style='color: #8f2929;'>Important Dates</h2>
 			<p>&nbsp;</p>
 			<ul>
 				<li>Release of Notification : July</li>
@@ -64,7 +64,7 @@
 
 			<p>&nbsp;</p>
 
-			<h2>Eligibility Criteria</h2>
+			<h2 style='color: #8f2929;'>Eligibility Criteria</h2>
 			<p>&nbsp;</p>
 			<ul>
 				<li>For Stream SA: Students studying in Class XI in Science subjects and having secured minimum 75% (65% for SC/ST/PWD) marks in aggregate in Mathematics and Science in the Class X board examination.</li>
@@ -73,7 +73,7 @@
 
 			<p>&nbsp;</p>
 
-			<h2>Exam Details</h2>
+			<h2 style='color: #8f2929;'>Exam Details</h2>
 			<p>&nbsp;</p>
 			<table class='table'>
 				<tbody>
@@ -308,7 +308,7 @@
 			<p>The INMO awardees who successfully complete IMOTC and who pursue B.Sc., or other courses as per the guidelines of the Board with mathematics as one of the principal subjects of study, are eligible to receive a scholarship of National Board of Higher Mathematics, which is at present Rs. 4,000 per month through the period of their undergraduate studies (subject to satisfactory progress). Enhance scholarship would be available for pursuing masters studies in Mathematics.</p>
 			
 			<p>&nbsp;</p>
-			<h2>Science and Astronomy Olympiad Programs in India:</h2>
+			<h2 style='color: #8f2929;'>Science and Astronomy Olympiad Programs in India:</h2>
 			<p>&nbsp;</p>
 			
 			<p>HBCSE, which is the nodal agency for the Science Olympiad Program in the country conducts the program in close collaboration with Indian Association of Physics Teachers (IAPT), Association of Chemistry Teachers (ACT), and the Association of Teachers in Biological Sciences (ATBS). The first stage of the Olympiad examinations is conducted by IAPT, while the later stages are the responsibility of HBCSE.</p>
@@ -456,7 +456,7 @@
 			<p>The selected students are for each subject is teamed together with 2-3 Teacher Leaders to accompany them for the International Olympiads which are held in a new participating country every year either in the month of July or December each year.</p>
 
 			<p>&nbsp;</p>
-			<h2>Other Recognized Olympiads:</h2>
+			<h2 style='color: #8f2929;'>Other Recognized Olympiads:</h2>
 			<p>&nbsp;</p>
 			
 			<p>Some other recognized Olympiads in Science disciplines but participation in them is not directly organized by HBCSE are as -</p>
@@ -504,7 +504,7 @@
 		
 	}
 </script>
-<?php include 'include/awesomeResponse.php'; ?>
+<?php include 'include/statistics1.php'; ?>
 <?php include 'include/footerEnquery.php'; ?>
 <?php include 'include/footer.php'; ?>
 <?php include 'include/js.php'; ?>

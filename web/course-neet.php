@@ -46,7 +46,7 @@
 		</div>
 		
 		<div class='profProfile' id="tabsub2" style='display:none'>
-			<p><strong>NEET 2020 IMPORTANT DETAILS</strong></p>
+			<p><strong>NEET 2022 IMPORTANT DETAILS</strong></p>
 			<p style='height:10px;'>&nbsp;</p>
 			<table class='table'>
 				<tbody>
@@ -60,7 +60,7 @@
 					</tr>
 					<tr>
 						<td>
-						<p>Release of NEET Admit Card 2020</p>
+						<p>Release of NEET Admit Card 2022</p>
 						</td>
 						<td>
 						<p>4th Week of August 2022</p>
@@ -68,7 +68,7 @@
 					</tr>
 					<tr>
 						<td>
-						<p>NEET 2020 Exam Date</p>
+						<p>NEET 2022 Exam Date</p>
 						</td>
 						<td>
 						<p>September 2022 (Postponed)</p>
@@ -158,9 +158,9 @@
 
 			<p>&nbsp;</p>
 
-			<p><strong>NEET 2020- AFTER EXAM SCHEDULE</strong></p>
+			<p><strong>NEET 2022- AFTER EXAM SCHEDULE</strong></p>
 			<p style='height:10px;'>&nbsp;</p>
-			<p>After the eminent completion of NEET 2022 exam, students are going to beready to check the NEET 2022 answer key within a week. The provisionary answer key will be releasedwithin the month of Sept 2020. afterunleash of provisional answer key, students will be able to challenge it and submit their responses. Final Answer Key will be released in ordinal or third week of September 2022. NEET 2022 Results dates have reportedly been proclaimedhoweveralso can be delayed considering the Covid-19 situation. The NEET 2022cut-offalso will be released besides the declaration of result. Candidates are going to be invited to the guidancemethod. NEET counselling will be started from October 2022. Candidates collaborating the counselling process will ought to register for the counselling rounds as per the counselling schedule which can be freeone by one by the authority.</p>
+			<p>After the eminent completion of NEET 2022 exam, students are going to beready to check the NEET 2022 answer key within a week. The provisionary answer key will be releasedwithin the month of Sept 2022. afterunleash of provisional answer key, students will be able to challenge it and submit their responses. Final Answer Key will be released in ordinal or third week of September 2022. NEET 2022 Results dates have reportedly been proclaimedhoweveralso can be delayed considering the Covid-19 situation. The NEET 2022cut-offalso will be released besides the declaration of result. Candidates are going to be invited to the guidancemethod. NEET counselling will be started from October 2022. Candidates collaborating the counselling process will ought to register for the counselling rounds as per the counselling schedule which can be freeone by one by the authority.</p>
 
 
 			<p>&nbsp;</p>
@@ -241,7 +241,7 @@
 		
 	}
 </script>
-<?php include 'include/awesomeResponse.php'; ?>
+<?php include 'include/statistics1.php'; ?>
 <?php include 'include/footerEnquery.php'; ?>
 <?php include 'include/footer.php'; ?>
 <?php include 'include/js.php'; ?>
