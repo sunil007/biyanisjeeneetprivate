@@ -15,7 +15,7 @@
             </div>
             <div class="col-lg-2 col-md-6 mt-lg-0 mt-5 sub-two-right">
               <h6>Quick links</h6>
-              <ul>
+              <ul style="list-style: none;padding-left: 5px;">
                 <li><a href="index.php">Home</a></li>
                 <li><a href="overview.php">About</a></li>
                 <li><a href="faculty.php">Faculty</a></li>
