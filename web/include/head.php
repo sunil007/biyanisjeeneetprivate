@@ -6,6 +6,12 @@
 		case "contact.php": $title = "Contact - Biyani's Jee Neet Private"; break;
 		case "faculty.php": $title = "Faculty - Biyani's Jee Neet Private"; break;
 		case "course.php": $title = "Course - Biyani's Jee Neet Private"; break;
+		case "course-jee-advanced.php": $title = "Course - JEE Advanced"; break;
+		case "course-neet.php": $title = "Course - NEET"; break;
+		case "course-jee-main.php": $title = "Course - JEE Main"; break;
+		case "course-foundation-courses.php": $title = "Course - Foundation Courses"; break;
+		case "course-prayas-aits.php": $title = "Course - Prayas AITS"; break;
+		case "course-kvpy-olymoiads.php": $title = "Course - KVPY & OLYMPIADS"; break;
 		default : $title = "Biyani's Jee Neet Private"; break;
 	}
 ?>
