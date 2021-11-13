@@ -4,10 +4,6 @@
 <body>
 <?php include 'include/nav.php'; ?>
 <section class="w3l-banner-slider">
-  <!--iframe frameborder="0" height="800px" width="100%"
-	src = "https://www.youtube.com/embed/BX8uYrTUWYg?autoplay=1&loop=1" frameborder="0" allowfullscreen
-    src1="https://youtube.com/embed/BX8uYrTUWYg?autoplay=1&mute=1&controls=0&showinfo=0&autohide=0&loop=1">
-  </iframe-->
   
   <div id="carouselExampleCaptions" class="carousel slide carousel-fade" data-ride="carousel">
     <ol class="carousel-indicators">
@@ -52,96 +48,96 @@
   </div>
 </section>
 <!-- index1 -->
-<div class="w3l-index1 py-4" id="about">
-  <div class="content-main pt-lg-5 pt-md-3 pb-0">
-    <div class="container">
-      <div class="row">
-        <!--div class="offset-lg-0 col-lg-4 offset-md-3 col-md-6 offset-sm-2 col-sm-8  content-photo">
-          <a href="#"><img src="assets/images/biyanis_symbol_lg.png" class="img-fluid" alt="content-photo" style='background: none;'></a>
-        </div-->
-		<div class="col-lg-12 text-center">	
-			<h3 style='font-size:2.3em;' class='bottomUnderline'>About Us</h3>
-		</div>
-		<div class="offset-lg-1 col-lg-2 text-center">
-			<img src='./assets/images/biyanis_symbol_lg -transparent-small.png' style='max-width: 200px;width: 100%;'>
-		</div>
-        <div class="col-lg-8">
-			<div style='height:20px'></div>
-			<p class="mb-0 big1Text">Another strong pillar of Biyani’s Education Group, we have established <b>Biyani’s JEE NEET Private</b> on the same principles that we are known for - complete transparency in education. Firmly rooted in the teaching pattern of Kota & the speed of Mumbai, we are a group of experienced directors who have teamed up for a single mission - to produce the best <span style="white-space: nowrap;font-weight: bold;color: #8f2929;text-decoration: underline;">JEE & NEET</span> results in the country.</p>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-<!-- //index1 -->
-<section class="w3l-index2">
-  <div class="features-main pb-5 pt-0">
-    <div class="container pb-lg-3">
-      <div class="row features text-center">
-		<div class="col-lg-3 col-sm-6 feature-grid">
-          <a href="#url">
-            <div class="feature-body">
-              <div class="feature-img">
-                <span class="fa fa-trophy" aria-hidden="true"></span>
-              </div>
-              <div class="feature-info mt-4">
-                <h3 class="feature-titel mb-3">Speed of Mumbai & Tradition of Kota</h3>
-                </p>
-              </div>
-            </div>
-          </a>
-        </div>
-        <div class="col-lg-3 col-sm-6 feature-grid">
-          <a href="#url">
-            <div class="feature-body">
-              <div class="feature-img">
-                <span class="fa fa-user" aria-hidden="true"></span>
-              </div>
-              <div class="feature-info mt-4">
-                <h3 class="feature-titel mb-3">All Time Available Core Faculties</h3>
-              </div>
-            </div>
-          </a>
-        </div>
-        
-        <div class="col-lg-3 col-sm-6 feature-grid">
-          <a href="#url">
-            <div class="feature-body active">
-              <div class="feature-img">
-                <span class="fa fa-group" aria-hidden="true"></span>
-              </div>
-              <div class="feature-info mt-4">
-                <h3 class="feature-titel mb-3">&nbsp;Experienced&nbsp; &nbsp;Directors&nbsp;</h3>
-                <div class="hover">
-                </div>
-              </div>
-            </div>
-          </a>
-        </div>
-        <div class="col-lg-3 col-sm-6 feature-grid">
-          <a href="#url">
-            <div class="feature-body">
-              <div class="feature-img">
-                <span class="fa fa-line-chart" aria-hidden="true"></span>
-              </div>
-              <div class="feature-info mt-4">
-                <h3 class="feature-titel mb-3">Trust of 800+ Students</h3>
-              </div>
-            </div>
-          </a>
-        </div>        
-      </div>
-	  <div class='row'>
-		<div class="col-lg-12 content-left mt-lg-0 mt-5 pl-lg-5">
-			<div class='text-center'>
-				<div data-toggle="modal" data-target="#enquireModal" class="theme-button btn-outline-primary btn mt-lg-5 mt-4">Enquire Now</div>
+<div class='fade-end' style='background: url(./assets/images/iit-roorkee-bg1.jpg) no-repeat 0px 0px;background-size: cover;background-position: center;position: relative;z-index: 1;'>
+	<div class="w3l-index1 py-4" id="about">
+	  <div class="content-main pt-lg-5 pt-md-3 pb-0">
+		<div class="container">
+		  <div class="row">
+			<!--div class="offset-lg-0 col-lg-4 offset-md-3 col-md-6 offset-sm-2 col-sm-8  content-photo">
+			  <a href="#"><img src="assets/images/biyanis_symbol_lg.png" class="img-fluid" alt="content-photo" style='background: none;'></a>
+			</div-->
+			<div class="col-lg-12 text-center">	
+				<h3 style='font-size:2.3em;' class='bottomUnderline'>About Us</h3>
 			</div>
+			<div class="col-lg-3 text-center">
+				<img src='./assets/images/biyanis_symbol_lg -transparent-small.png' style='max-width: 200px;width: 100%;'>
+			</div>
+			<div class="col-lg-8">
+				<div style='height:30px'></div>
+				<p class="mb-0 big1Text">Another strong pillar of Biyani’s Education Group, we have established <b>Biyani’s JEE NEET Private</b> on the same principles that we are known for - complete transparency in education. Firmly rooted in the teaching pattern of Kota & the speed of Mumbai, we are a group of experienced directors who have teamed up for a single mission - to produce the best <span style="white-space: nowrap;font-weight: bold;color: #8f2929;text-decoration: underline;">JEE & NEET</span> results in the country.</p>
+			</div>
+		  </div>
 		</div>
 	  </div>
-    </div>
-  </div>
-</section>
-
+	</div>
+	<section class="w3l-index2">
+	  <div class="features-main pb-5 pt-0">
+		<div class="container pb-lg-3">
+		  <div class="row features text-center">
+			<div class="col-lg-3 col-sm-6 feature-grid">
+			  <a href="#url">
+				<div class="feature-body">
+				  <div class="feature-img">
+					<span class="fa fa-trophy" aria-hidden="true"></span>
+				  </div>
+				  <div class="feature-info mt-4">
+					<h3 class="feature-titel mb-3">Speed of Mumbai & Tradition of Kota</h3>
+					</p>
+				  </div>
+				</div>
+			  </a>
+			</div>
+			<div class="col-lg-3 col-sm-6 feature-grid">
+			  <a href="#url">
+				<div class="feature-body">
+				  <div class="feature-img">
+					<span class="fa fa-user" aria-hidden="true"></span>
+				  </div>
+				  <div class="feature-info mt-4">
+					<h3 class="feature-titel mb-3">All Time Available Core Faculties</h3>
+				  </div>
+				</div>
+			  </a>
+			</div>
+			
+			<div class="col-lg-3 col-sm-6 feature-grid">
+			  <a href="#url">
+				<div class="feature-body">
+				  <div class="feature-img">
+					<span class="fa fa-group" aria-hidden="true"></span>
+				  </div>
+				  <div class="feature-info mt-4">
+					<h3 class="feature-titel mb-3">&nbsp;Experienced&nbsp; &nbsp;Directors&nbsp;</h3>
+					<div class="hover">
+					</div>
+				  </div>
+				</div>
+			  </a>
+			</div>
+			<div class="col-lg-3 col-sm-6 feature-grid">
+			  <a href="#url">
+				<div class="feature-body">
+				  <div class="feature-img">
+					<span class="fa fa-line-chart" aria-hidden="true"></span>
+				  </div>
+				  <div class="feature-info mt-4">
+					<h3 class="feature-titel mb-3">Trust of 800+ Students</h3>
+				  </div>
+				</div>
+			  </a>
+			</div>        
+		  </div>
+		  <div class='row'>
+			<div class="col-lg-12 content-left mt-lg-0 mt-5 pl-lg-5">
+				<div class='text-center'>
+					<div data-toggle="modal" data-target="#enquireModal" class="theme-button btn-outline-primary btn mt-lg-5 mt-4">Enquire Now</div>
+				</div>
+			</div>
+		  </div>
+		</div>
+	  </div>
+	</section>
+</div>
 <!--section class="w3l-index2">
   <div class="features-main pb-5 pt-0">
     <div class="container pb-lg-3">

@@ -22,6 +22,9 @@
  * Copyright 2011-2019 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
+ .grecaptcha-badge{
+	 display:none;
+ }
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
@@ -7896,13 +7899,18 @@ li.nav-item:hover .nav-link::before {
 .w3l-index2 .feature-body {
   transition: 0.3s ease-in;
   border: 1px solid #cfcfcf;
-  padding: 1.5rem; }
+  padding: 1.5rem; 
+  border-radius: 15px;
+  background-color: #ffffff;
+}
 
 .w3l-index2 .feature-body.active {
   background-color: var(--primary); }
 
 .w3l-index2 .feature-body:hover {
-  background-color: var(--primary); }
+  background-color: var(--primary); 
+  box-shadow: 0px 0px 10px 0px #888888;
+ }
 
 .w3l-index2 .feature-img span {
   font-size: 35px;
@@ -8624,7 +8632,7 @@ button.owl-next {
     padding: 15px; } }
 
 .w3l-footer .footer {
-  background: url(../images/banner5.jpg?3) no-repeat 0px 0px;
+  background: url(../images/iit-kharakpur.jpg) no-repeat 0px 0px;
   background-size: cover;
   background-position: center;
   position: relative;
@@ -9447,8 +9455,8 @@ button.owl-next {
 
 /*# sourceMappingURL=style-starter.css.map */
 .big1Text{
-	font-size:1.05em !important;
-	line-height:1.5em !important;
+	font-size:1.10em !important;
+	line-height:1.55em !important;
 }
 .logoImage{
 	height: 60px;
@@ -9563,6 +9571,18 @@ button.owl-next {
 	}
 }
 
-
+.fade-end:after {
+  content  : "";
+  position : absolute;
+  z-index  : 1;
+  bottom   : 0;
+  left     : 0;
+  pointer-events   : none;
+  background-image : linear-gradient(to bottom, 
+                    rgba(255,255,255, 0), 
+                    rgba(255,255,255, 1) 90%);
+  width    : 100%;
+  height   : 4em;
+}
 
 
