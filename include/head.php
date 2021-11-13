@@ -21,7 +21,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
   <title><?php echo $title; ?></title>
-
+  <meta property="og:site_name" content="Biyani's Jee Neet Private"/>
+  <meta property="og:image" content="https://biyanisjeeneetprivate.com/assets/images/logo.jpg"/>
   <!-- web fonts -->
   <link href="//fonts.googleapis.com/css?family=Roboto:400,700,900&display=swap" rel="stylesheet">
   <link href="//fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700;800&display=swap" rel="stylesheet">
