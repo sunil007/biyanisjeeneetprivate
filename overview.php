@@ -12,7 +12,7 @@
   </div>
 </section>
 <!-- //breadcrum -->
-<section class="w3l-about1" id="about">
+<section class="w3l-about1 fade-start fade-end" id="about" style='background: url(./assets/images/iit-madras-bg1.jpg) no-repeat 0px 0px;background-size: cover;background-position: center;position: relative;z-index: 1;'>
     <div class="container py-lg-3">
         <div class="header-section text-center mb-lg-5 mb-4">
 			<div style='height:40px'></div>
@@ -64,6 +64,7 @@
 			</div>
         </div>
     </div>
+	<div style='height:40px'></div>
 </section>
 <section class="w3l-about3">
 	<!-- /features -->
