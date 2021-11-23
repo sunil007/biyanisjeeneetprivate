@@ -192,6 +192,22 @@
 </div>
 
 
+<div class="w3l-services3">
+  <section id="grids5-block" class="">
+    <div class="container py-lg-3">
+      <div class="header-section mb-5 text-center">
+        <h3 class='bottomUnderline'>Science Career Crossroad</h3>
+      </div>
+      <div class="row">
+		<div class="col-md-12 col-sm-12 mt-sm-0 mt-5 grids5-info">
+			<iframe width="100%" height="500px;" src="https://www.youtube.com/embed/60IPuvjMX7U?autoplay=1&amp;mute=1&amp;playlist=60IPuvjMX7U&amp;loop=1" allowfullscreen="" style='box-shadow: 0px 0px 10px 0px #333;border-radius: 10px;'>
+			</iframe>
+        </div>
+      </div>
+	  <div style='height:100px;'></div>
+    </div>
+  </section>
+</div>
 	
 
 <!--section class="w3l-index3" id="process">
