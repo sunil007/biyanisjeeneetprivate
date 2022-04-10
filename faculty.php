@@ -149,6 +149,7 @@
 		<div style='height:40px'></div>
     </div>
 </section>
+<div style='height:40px'></div>
 <div class="w3l-services3">
   <section id="grids5-block" class="">
     <div class="container py-lg-3">
@@ -160,6 +161,7 @@
           <h5>Dr. Sumedh Ukidave</h5>
           <h4><a class='noMargin' href="#url">Biology | B.H.M.S, C.C.H., C.G.O</a></h4>
           <p class='noMargin'>Teaching Experience 14 yrs</p>
+		  <div style='height:40px'></div>
         </div>
 		
 		<div class="col-md-4 col-sm-6 mt-0 grids5-info">
@@ -169,6 +171,7 @@
           <h5>Prof. Amir Khan</h5>
           <h4><a class='noMargin' href="#">Maths | Msc in Mathematics</a></h4>
           <p class='noMargin'>Teaching Experience 14+ yrs</p>
+		  <div style='height:40px'></div>
         </div>
 		
         <div class="col-md-4 col-sm-6 mt-0 grids5-info">
@@ -178,9 +181,10 @@
           <h5>Prof. Kavita Pal</h5>
           <h4><a class='noMargin' href="#">Chem. | M.Sc organic chem., B.Ed </a></h4>
           <p class='noMargin'>5 years</p>
+		  <div style='height:40px'></div>
         </div>
       </div>
-	  <div style='height:100px;'></div>
+	  <div style='height:60px;'></div>
     </div>
   </section>
 </div>
