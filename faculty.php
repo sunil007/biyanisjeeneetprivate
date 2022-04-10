@@ -146,13 +146,44 @@
 				</tr>
 			</table>
 		</div>
-		
-		
 		<div style='height:40px'></div>
-		
-		
     </div>
 </section>
+<div class="w3l-services3">
+  <section id="grids5-block" class="">
+    <div class="container py-lg-3">
+      <div class="row">
+		<div class="col-md-4 col-sm-6 mt-sm-0 mt-5 grids5-info">
+		  <span class='popuponscroll'>
+			<a href="#url" style="border-bottom: 3px solid #8f2929;height: 340px;overflow: hidden;display: block;"><img src="./assets/images/Sumedh Ukidave.jpg" class="img-fluid img-curve" alt="" style="margin-bottom: -1px;"></a>
+		  </span>
+          <h5>Dr. Sumedh Ukidave</h5>
+          <h4><a class='noMargin' href="#url">Biology | B.H.M.S, C.C.H., C.G.O</a></h4>
+          <p class='noMargin'>Teaching Experience 14 yrs</p>
+        </div>
+		
+		<div class="col-md-4 col-sm-6 mt-0 grids5-info">
+		  <span class='popuponscroll'>
+			<a href="#url" style="border-bottom: 3px solid #8f2929;height: 340px;overflow: hidden;display: block;"><img src="./assets/images/Teacher Placeholder.png" class="img-fluid img-curve" alt="" style="margin-bottom: -1px;"></a>
+		  </span>
+          <h5>Prof. Amir Khan</h5>
+          <h4><a class='noMargin' href="#">Maths | Msc in Mathematics</a></h4>
+          <p class='noMargin'>Teaching Experience 14+ yrs</p>
+        </div>
+		
+        <div class="col-md-4 col-sm-6 mt-0 grids5-info">
+		  <span class='popuponscroll'>
+			<a href="#url" style="border-bottom: 3px solid #8f2929;height: 340px;overflow: hidden;display: block;"><img src="./assets/images/Kavita Pal.jpg" class="img-fluid img-curve" alt="" style="margin-bottom: -1px;"></a>
+		  </span>
+          <h5>Prof. Kavita Pal</h5>
+          <h4><a class='noMargin' href="#">Chem. | M.Sc organic chem., B.Ed </a></h4>
+          <p class='noMargin'>5 years</p>
+        </div>
+      </div>
+	  <div style='height:100px;'></div>
+    </div>
+  </section>
+</div>
 <script>
 	function showProfs(dom, element){
 		$(element).parent().find('span').removeClass('active');
