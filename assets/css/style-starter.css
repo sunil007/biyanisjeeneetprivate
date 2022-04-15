@@ -4662,6 +4662,7 @@ a.close.disabled {
   display: inline-block;
   width: 20px;
   height: 20px;
+  height: 20px;
   background: no-repeat 50% / 100% 100%; }
 
 .carousel-control-prev-icon {
@@ -4696,12 +4697,15 @@ a.close.disabled {
     border-top: 10px solid transparent;
     border-bottom: 10px solid transparent;
     opacity: .5;
-    transition: opacity 0.6s ease; }
+    transition: opacity 0.6s ease;
+    border: 1px solid #8f2929;	}
     @media (prefers-reduced-motion: reduce) {
       .carousel-indicators li {
         transition: none; } }
   .carousel-indicators .active {
-    opacity: 1; }
+    opacity: 1; 
+	background-color:#8f2929;
+	}
 
 .carousel-caption {
   position: absolute;
@@ -7756,6 +7760,10 @@ li.nav-item:hover .nav-link::before {
   z-index: 1;
 }
 
+.carousel-item.nogradient:before{
+	background: none;
+}
+
 .w3l-banner-slider .carousel-caption {
   bottom: 0px;
   top: 50%;
@@ -7852,6 +7860,10 @@ li.nav-item:hover .nav-link::before {
   .w3l-banner-slider h3.title-cover-9 {
     font-size: 22px;
     line-height: 26px; } }
+
+.w3l-banner-slider .carousel-item.bannerScreen {
+	 min-height: auto;
+}
 
 /*--index1--*/
 .w3l-index1 .content-photo img {

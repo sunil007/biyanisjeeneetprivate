@@ -7,13 +7,13 @@
   
   <div id="carouselExampleCaptions" class="carousel slide carousel-fade" data-ride="carousel">
     <ol class="carousel-indicators">
-      <!--li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
+      <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
       <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
       <li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
-      <li data-target="#carouselExampleCaptions" data-slide-to="3"></li-->
+      <li data-target="#carouselExampleCaptions" data-slide-to="3"></li>
     </ol>
-    <div class="carousel-inner" style='background: #ff5f5f;'>
-		<div class="carousel-item active">
+    <div class="carousel-inner" style='background: #8f2929;'>
+		<!--div class="carousel-item active">
 			<video autoplay muted loop class="bannerVideo" width='100%' style='top:0px;'>
 				<source src="./assets/video/banner2_1.mp4" type="video/mp4">
 			</video>
@@ -22,29 +22,33 @@
 				<h6 class="tag-cover-9" style='font-size: 1.5em;'> <span>Biyani's</span> <span>JEE NEET</span> <span>Private</span></h6>
 				<h6 class="tag-cover-9">&nbsp;</h6>
 				<h3 class="title-cover-9" style='text-transform: initial;'>Get the tradition of Kota in Mumbai with <span style='white-space:nowrap'>Biyani’s JEE NEET</span> Private</h3>
-				<!--p class="para-cover-9">Once aute irure dolor in reprehenderit in voluptate velit
-					esse cillum dolore eu fugiat nulla pariatur consectetur adipiscing elit eu fugiat nulla laudantium sunt in
-					culpa qui.</p-->
 				<a data-toggle="modal" data-target="#enquireModal" href="#tag" class="btn btn-primary theme-button mt-5">ENQUIRE NOW</a>
 			</div>
-        </div>
-	
-		<!--div class="carousel-item">
-			<video autoplay muted loop id="myVideo" width='100%'>
-				<source src="./assets/video/banner3.mp4" type="video/mp4">
-			</video>
         </div-->
+	
+		<div class="carousel-item active nogradient bannerScreen">
+			<img src="./assets/images/banners/image 1.jpg" width='100%' />
+        </div>
+		<div class="carousel-item nogradient bannerScreen">
+			<img src="./assets/images/banners/image 2.jpg" width='100%' />
+        </div>
+		<div class="carousel-item nogradient bannerScreen">
+			<img src="./assets/images/banners/image 3.jpg" width='100%' />
+        </div>
+		<div class="carousel-item nogradient bannerScreen">
+			<img src="./assets/images/banners/image 4.jpg" width='100%' />
+        </div>
 	
 	
     </div>
-    <!--a class="carousel-control-prev" href="#carouselExampleCaptions" role="button" data-slide="prev">
+    <a class="carousel-control-prev" href="#carouselExampleCaptions" role="button" data-slide="prev">
       <span class="carousel-control-prev-icon" aria-hidden="true"></span>
       <span class="sr-only">Previous</span>
     </a>
     <a class="carousel-control-next" href="#carouselExampleCaptions" role="button" data-slide="next">
       <span class="carousel-control-next-icon" aria-hidden="true"></span>
       <span class="sr-only">Next</span>
-    </a-->
+    </a>
   </div>
 </section>
 <!-- index1 -->
