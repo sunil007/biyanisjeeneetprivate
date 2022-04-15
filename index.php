@@ -259,7 +259,7 @@
                   <p>I am proud to say that I was a student of Prof. Rakesh Shah. The way he taught was imaginative and based on derivation & understanding the formulas. My concepts cleared were quickly and I was able to navigate my way through the tough questions at ease. For my ability to visualize questions and solve them effectively, I owe Rakesh sir a lot. An amazing teacher who is also a good friend.</p>
                   <div class="name mt-4">
                     <h4 style="font-size: 1.5em;color: #d0b29a;">Anuj Doshi</h4>
-                    <p style="font-size: 2em;letter-spacing: 1px;padding: 10px 0px;font-weight: 700;">700/720 – AIR 98</p>
+                    <p style="font-size: 1.5em;letter-spacing: 1px;padding: 10px 0px;font-weight: 700;">700/720 – AIR 98</p>
                   </div>
                 </div>
               </div>
@@ -271,10 +271,10 @@
                 </div>
                 <div class="message">
                   <span class="fa fa-quote-left" aria-hidden="true"></span>
-                  <p>I had a great time and enjoyed studying Physics & Chemistry. The teachers made the topic fun and interesting to me. They created an atmosphere that nurtured curiosity about the subjects that we were studying – this quality is rare and something I’ve only come across with the teachers at Biyani’s!</p>
+                  <p>I had a great time and enjoyed studying Physics. The teachers made the topic fun and interesting to me. They created an atmosphere that nurtured curiosity about the subjects that we were studying – this quality is rare and something I’ve only come across with the teachers at Biyani’s!</p>
                   <div class="name mt-4">
                     <h4 style="font-size: 1.5em;color: #d0b29a;">Jayatra Shah</h4>
-                    <p style="font-size: 2em;letter-spacing: 1px;padding: 10px 0px;font-weight: 700;">700/720 - 180/180 Physics <i style='white-space:nowrap;padding-top: 10px;display: block;'>(1<sup>st</sup> in INDIA for PHYSICS)</i></p>
+                    <p style="font-size: 1.5em;letter-spacing: 1px;padding: 10px 0px;font-weight: 700;">700/720 <br> 180/180 Physics <i style='white-space:nowrap;padding-top: 10px;display: block;font-size: 0.9em;'>(1<sup>st</sup> in INDIA for PHYSICS)</i></p>
                   </div>
                 </div>
               </div>
@@ -286,10 +286,10 @@
                 </div>
                 <div class="message">
                   <span class="fa fa-quote-left" aria-hidden="true"></span>
-                  <p>I have simply lost count of the number of late evenings I have spent with the teachers at Biyani’s JEE NEET Private, honing my question solving skills and annoying them with my constant doubts. More than great teachers, they are an even better support system for a student preparing for competitive exams like JEE & NEET!</p>
+                  <p>I have simply lost count of the number of late evenings I have spent with the teachers, honing my question solving skills and annoying them with my constant doubts. More than great teachers, they are an even better support system for a student preparing for competitive exams like JEE & NEET!</p>
                   <div class="name mt-4">
                     <h4 style="font-size: 1.5em;color: #d0b29a;">Nishit Chatnani</h4>
-                    <p style="font-size: 2em;letter-spacing: 1px;padding: 10px 0px;font-weight: 700;">680/720</p>
+                    <p style="font-size: 1.5em;letter-spacing: 1px;padding: 10px 0px;font-weight: 700;">680/720</p>
                   </div>
                 </div>
               </div>
@@ -357,7 +357,7 @@
 				  </p>
                   <div class="name mt-4">
                     <h4 style="font-size: 1.5em;color: #d0b29a;">Khushbu Rathi</h4>
-                    <p style="font-size: 2em;letter-spacing: 1px;padding: 10px 0px;font-weight: 700;">668/720</p>
+                    <p style="font-size: 1.5em;letter-spacing: 1px;padding: 10px 0px;font-weight: 700;">668/720</p>
                   </div>
                 </div>
               </div>
@@ -370,11 +370,11 @@
                 </div>
                 <div class="message">
                   <span class="fa fa-quote-left" aria-hidden="true"></span>
-                  <p>At BJNP, the approach to the syllabus is very systematic and well-thought out which makes the concepts easy to grasp, and helps to connect different topics and apply the concepts. The tests are very extensive and of different levels which gives enormous practice at all the different difficulties within the same topic. The teachers clearly have a fair idea as to where the questions can come from and which reference books to focus more on, and that is quite helpful during the final stages of the exam!
+                  <p>The approach to the syllabus is very systematic and well-thought out which makes the concepts easy to grasp, and helps to connect different topics and apply the concepts. The tests are very extensive and of different levels which gives enormous practice at all the different difficulties within the same topic. The teachers clearly have a fair idea as to where the questions can come from and which reference books to focus more on, and that is quite helpful during the final stages of the exam!
 				  </p>
                   <div class="name mt-4">
                     <h4 style="font-size: 1.5em;color: #d0b29a;">Maulik Shah</h4>
-                    <p style="font-size: 2em;letter-spacing: 1px;padding: 10px 0px;font-weight: 700;">671/720</p>
+                    <p style="font-size: 1.5em;letter-spacing: 1px;padding: 10px 0px;font-weight: 700;">671/720</p>
                   </div>
                 </div>
               </div>
@@ -408,7 +408,7 @@
 				  </p>
                   <div class="name mt-4">
                     <h4 style="font-size: 1.5em;color: #d0b29a;">Akshat Vira</h4>
-                    <p style="font-size: 2em;letter-spacing: 1px;padding: 10px 0px;font-weight: 700;">99.89% IIT Bombay</p>
+                    <p style="font-size: 1.5em;letter-spacing: 1px;padding: 10px 0px;font-weight: 700;">99.89% IIT Bombay</p>
                   </div>
                 </div>
               </div>
@@ -425,7 +425,7 @@
 				  </p>
                   <div class="name mt-4">
                     <h4 style="font-size: 1.5em;color: #d0b29a;">Smith Pereira</h4>
-                    <p style="font-size: 2em;letter-spacing: 1px;padding: 10px 0px;font-weight: 700;">99.90% IIT Roorkee</p>
+                    <p style="font-size: 1.5em;letter-spacing: 1px;padding: 10px 0px;font-weight: 700;">99.90% IIT Roorkee</p>
                   </div>
                 </div>
               </div>
@@ -442,7 +442,7 @@
 				  </p>
                   <div class="name mt-4">
                     <h4 style="font-size: 1.5em;color: #d0b29a;">Prashant Jaiswal</h4>
-                    <p style="font-size: 2em;letter-spacing: 1px;padding: 10px 0px;font-weight: 700;">IIT Bombay</p>
+                    <p style="font-size: 1.5em;letter-spacing: 1px;padding: 10px 0px;font-weight: 700;">IIT Bombay</p>
                   </div>
                 </div>
               </div>

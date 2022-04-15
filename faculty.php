@@ -166,7 +166,7 @@
 		
 		<div class="col-md-4 col-sm-6 mt-0 grids5-info">
 		  <span class='popuponscroll'>
-			<a href="#url" style="border-bottom: 3px solid #8f2929;height: 340px;overflow: hidden;display: block;"><img src="./assets/images/Teacher Placeholder.png" class="img-fluid img-curve" alt="" style="margin-bottom: -1px;"></a>
+			<a href="#url" style="border-bottom: 3px solid #8f2929;height: 340px;overflow: hidden;display: block;"><img src="./assets/images/Amir Khan.jpg" class="img-fluid img-curve" alt="" style="margin-bottom: -1px;"></a>
 		  </span>
           <h5>Prof. Amir Khan</h5>
           <h4><a class='noMargin' href="#">Maths | Msc in Mathematics</a></h4>
@@ -180,9 +180,20 @@
 		  </span>
           <h5>Prof. Kavita Pal</h5>
           <h4><a class='noMargin' href="#">Chem. | M.Sc organic chem., B.Ed </a></h4>
-          <p class='noMargin'>5 years</p>
+          <p class='noMargin'>Teaching Experience 5 years</p>
 		  <div style='height:40px'></div>
         </div>
+		
+		<div class="col-md-4 col-sm-6 mt-0 grids5-info">
+		  <span class='popuponscroll'>
+			<a href="#url" style="border-bottom: 3px solid #8f2929;height: 340px;overflow: hidden;display: block;"><img src="./assets/images/Naresh Pareek.jpg" class="img-fluid img-curve" alt="" style="margin-bottom: -1px;"></a>
+		  </span>
+          <h5>Prof. Naresh Pareek</h5>
+          <h4><a class='noMargin' href="#">Phy. | B.Tech in Mechanical Eng.</a></h4>
+          <p class='noMargin'>Teaching Experience 7+ years</p>
+		  <div style='height:40px'></div>
+        </div>
+		
       </div>
 	  <div style='height:60px;'></div>
     </div>
