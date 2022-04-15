@@ -27,16 +27,16 @@
         </div-->
 	
 		<div class="carousel-item active nogradient bannerScreen">
-			<img src="./assets/images/banners/image 1.jpg" width='100%' />
+			<img src="./assets/images/banners/Image 1.jpg" width='100%' />
         </div>
 		<div class="carousel-item nogradient bannerScreen">
-			<img src="./assets/images/banners/image 2.jpg" width='100%' />
+			<img src="./assets/images/banners/Image 2.jpg" width='100%' />
         </div>
 		<div class="carousel-item nogradient bannerScreen">
-			<img src="./assets/images/banners/image 3.jpg" width='100%' />
+			<img src="./assets/images/banners/Image 3.jpg" width='100%' />
         </div>
 		<div class="carousel-item nogradient bannerScreen">
-			<img src="./assets/images/banners/image 4.jpg" width='100%' />
+			<img src="./assets/images/banners/Image 4.jpg" width='100%' />
         </div>
 	
 	
