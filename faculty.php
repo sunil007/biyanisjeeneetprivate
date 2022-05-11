@@ -209,7 +209,7 @@
 			<a href="#url" style="border-bottom: 3px solid #8f2929;height: 340px;overflow: hidden;display: block;"><img src="./assets/images/Mohit Goel.jpg" class="img-fluid img-curve" alt="" style="margin-bottom: -1px;"></a>
 		  </span>
           <h5>Prof. Mohit Goel</h5>
-          <h4><a class='noMargin' href="#">B. Tech., IIT Roorkee</a></h4>
+          <h4><a class='noMargin' href="#">Maths | B. Tech., IIT Roorkee</a></h4>
           <p class='noMargin'>Teaching Experience 14+ years</p>
 		  <div style='height:40px'></div>
         </div>
