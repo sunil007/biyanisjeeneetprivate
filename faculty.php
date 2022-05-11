@@ -194,6 +194,26 @@
 		  <div style='height:40px'></div>
         </div>
 		
+		<div class="col-md-4 col-sm-6 mt-0 grids5-info">
+		  <span class='popuponscroll'>
+			<a href="#url" style="border-bottom: 3px solid #8f2929;height: 340px;overflow: hidden;display: block;"><img src="./assets/images/Hemant Rai.jpg" class="img-fluid img-curve" alt="" style="margin-bottom: -1px;"></a>
+		  </span>
+          <h5>Prof. Hemant Kumar Rai (HRch sir)</h5>
+          <h4><a class='noMargin' href="#">Chem. | M.Sc.</a></h4>
+          <p class='noMargin'>Teaching Experience 16+ years</p>
+		  <div style='height:40px'></div>
+        </div>
+		
+		<div class="col-md-4 col-sm-6 mt-0 grids5-info">
+		  <span class='popuponscroll'>
+			<a href="#url" style="border-bottom: 3px solid #8f2929;height: 340px;overflow: hidden;display: block;"><img src="./assets/images/Mohit Goel.jpg" class="img-fluid img-curve" alt="" style="margin-bottom: -1px;"></a>
+		  </span>
+          <h5>Prof. Mohit Goel</h5>
+          <h4><a class='noMargin' href="#">B. Tech., IIT Roorkee</a></h4>
+          <p class='noMargin'>Teaching Experience 14+ years</p>
+		  <div style='height:40px'></div>
+        </div>
+		
       </div>
 	  <div style='height:60px;'></div>
     </div>
