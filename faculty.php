@@ -158,8 +158,8 @@
 		  <span class='popuponscroll'>
 			<a href="#url" style="border-bottom: 3px solid #8f2929;height: 340px;overflow: hidden;display: block;"><img src="./assets/images/Sumedh Ukidave.jpg" class="img-fluid img-curve" alt="" style="margin-bottom: -1px;"></a>
 		  </span>
-          <h5>Dr. Sumedh Ukidave</h5>
-          <h4><a class='noMargin' href="#url">Biology | B.H.M.S, C.C.H., C.G.O</a></h4>
+          <h5>Biology | Dr. Sumedh Ukidave</h5>
+          <h4><a class='noMargin' href="#url">B.H.M.S, C.C.H., C.G.O</a></h4>
           <p class='noMargin'>Teaching Experience 14 yrs</p>
 		  <div style='height:40px'></div>
         </div>
@@ -168,8 +168,8 @@
 		  <span class='popuponscroll'>
 			<a href="#url" style="border-bottom: 3px solid #8f2929;height: 340px;overflow: hidden;display: block;"><img src="./assets/images/Amir Khan.jpg" class="img-fluid img-curve" alt="" style="margin-bottom: -1px;"></a>
 		  </span>
-          <h5>Prof. Amir Khan</h5>
-          <h4><a class='noMargin' href="#">Maths | Msc in Mathematics</a></h4>
+          <h5>Maths | Prof. Amir Khan</h5>
+          <h4><a class='noMargin' href="#">Msc in Mathematics</a></h4>
           <p class='noMargin'>Teaching Experience 14+ yrs</p>
 		  <div style='height:40px'></div>
         </div>
@@ -178,8 +178,8 @@
 		  <span class='popuponscroll'>
 			<a href="#url" style="border-bottom: 3px solid #8f2929;height: 340px;overflow: hidden;display: block;"><img src="./assets/images/Kavita Pal.jpg" class="img-fluid img-curve" alt="" style="margin-bottom: -1px;"></a>
 		  </span>
-          <h5>Prof. Kavita Pal</h5>
-          <h4><a class='noMargin' href="#">Chem. | M.Sc organic chem., B.Ed </a></h4>
+          <h5>Chemistry | Prof. Kavita Pal</h5>
+          <h4><a class='noMargin' href="#">M.Sc Organic Chemistry, B.Ed </a></h4>
           <p class='noMargin'>Teaching Experience 5 years</p>
 		  <div style='height:40px'></div>
         </div>
@@ -188,8 +188,8 @@
 		  <span class='popuponscroll'>
 			<a href="#url" style="border-bottom: 3px solid #8f2929;height: 340px;overflow: hidden;display: block;"><img src="./assets/images/Naresh Pareek.jpg" class="img-fluid img-curve" alt="" style="margin-bottom: -1px;"></a>
 		  </span>
-          <h5>Prof. Naresh Pareek</h5>
-          <h4><a class='noMargin' href="#">Phy. | B.Tech in Mechanical Eng.</a></h4>
+          <h5>Physics | Prof. Naresh Pareek</h5>
+          <h4><a class='noMargin' href="#">B.Tech in Mechanical Eng.</a></h4>
           <p class='noMargin'>Teaching Experience 7+ years</p>
 		  <div style='height:40px'></div>
         </div>
@@ -198,8 +198,8 @@
 		  <span class='popuponscroll'>
 			<a href="#url" style="border-bottom: 3px solid #8f2929;height: 340px;overflow: hidden;display: block;"><img src="./assets/images/Hemant Rai.jpg" class="img-fluid img-curve" alt="" style="margin-bottom: -1px;"></a>
 		  </span>
-          <h5>Prof. Hemant Kumar Rai (HRch sir)</h5>
-          <h4><a class='noMargin' href="#">Chem. | M.Sc.</a></h4>
+          <h5>Chemistry | Prof. Hemant Kumar Rai</h5>
+          <h4><a class='noMargin' href="#">M.Sc.</a></h4>
           <p class='noMargin'>Teaching Experience 16+ years</p>
 		  <div style='height:40px'></div>
         </div>
@@ -208,8 +208,8 @@
 		  <span class='popuponscroll'>
 			<a href="#url" style="border-bottom: 3px solid #8f2929;height: 340px;overflow: hidden;display: block;"><img src="./assets/images/Mohit Goel.jpg" class="img-fluid img-curve" alt="" style="margin-bottom: -1px;"></a>
 		  </span>
-          <h5>Prof. Mohit Goel</h5>
-          <h4><a class='noMargin' href="#">Maths | B. Tech., IIT Roorkee</a></h4>
+          <h5>Maths | Prof. Mohit Goel</h5>
+          <h4><a class='noMargin' href="#">B. Tech, IIT Roorkee</a></h4>
           <p class='noMargin'>Teaching Experience 14+ years</p>
 		  <div style='height:40px'></div>
         </div>
