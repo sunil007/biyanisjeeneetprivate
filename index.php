@@ -463,6 +463,7 @@
 <?php include 'include/footer.php'; ?>
 <?php include 'include/js.php'; ?>
 <?php include 'include/enquireModal.php'; ?>
+<?php include 'include/popup.php'; ?>
 </body>
 
 </html>
